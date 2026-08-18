@@ -1,0 +1,1385 @@
+Liminal 	White 	Paper 	1.2
+Liminal 	WhitePaper
+Gathering 	a 	little 	light 	to 	illuminate 	the 	future 	of 	private 	networks
+
+-- 1 of 41 --
+
+Chapter 	1: 	Industry 	Background 	and 	Market
+Opportunities
+1.1 	Global 	Data 	Sovereignty 	Game: 	Macro 	Background 	of
+Privacy 	Finance
+In 	April 	2025, 	the 	General 	Court 	of 	the 	European 	Union 	dismissed 	a 	lawsuit 	by 	Meta
+Platforms 	Ireland 	against 	the 	European 	Data 	Protection 	Board's 	"consent 	or 	pay" 	model, 	and
+ordered 	Meta 	to 	bear 	all 	litigation 	costs. 	This 	ruling 	signifies 	the 	further 	strengthening 	of 	the
+European 	Union's 	regulatory 	stance 	in 	the 	field 	of 	data 	privacy. 	In 	the 	same 	year, 	China's
+"Data 	Export 	Security 	Evaluation 	Measures" 	were 	fully 	implemented, 	requiring 	all 	domestic
+operators 	providing 	data 	to 	overseas 	to 	pass 	the 	security 	evaluation. 	The 	US 	passed 	the
+RESTRICT 	Act, 	authorizing 	the 	government 	to 	conduct 	national 	security 	reviews 	of 	data
+transactions 	involving 	"hostile 	countries".
+Three 	major 	economies, 	three 	sets 	of 	rules, 	one 	goal: 	Data 	Sovereignty.
+In 	this 	global 	game 	of 	Data 	Sovereignty, 	an 	emerging 	field 	is 	becoming 	a 	key 	variable 	-
+privacy 	finance. 	When 	the 	cross-border 	flow 	of 	traditional 	financial 	data 	is 	regulated 	at
+various 	levels, 	and 	when 	the 	default 	transparent 	rules 	of 	blockchain 	make 	all 	on-chain
+transactions 	public 	data, 	a 	fundamental 	question 	arises: 	Who 	will 	protect 	the 	privacy 	of 	on-
+chain 	financial 	data? 	Who 	will 	ensure 	the 	anonymity 	of 	value 	flow?
+This 	is 	not 	just 	a 	technical 	issue, 	but 	also 	a 	strategic 	infrastructure 	issue 	in 	the 	competition 	for
+national 	data 	sovereignty.
+1.1.1 	Privacy 	Dilemma 	in 	the 	Competition 	for 	Data
+Sovereignty
+The 	core 	logic 	of 	the 	competition 	for 	data 	sovereignty 	is 	simple 	and 	clear: 	whoever 	controls
+the 	data, 	controls 	the 	discourse 	of 	the 	digital 	era. 	However, 	this 	competition 	has 	also 	created 	a
+deep 	dilemma: 	privacy 	protection 	is 	being 	"sovereigntized". 	While 	countries 	are 	tightening
+data 	flow 	under 	the 	guise 	of 	"Data 	Sovereignty", 	the 	privacy 	of 	ordinary 	users 	on 	the
+blockchain 	is 	invisible 	under 	the 	"default 	transparent" 	rules.
+By 	2025, 	the 	annual 	global 	cross-border 	capital 	flow 	will 	exceed 	$70 	trillion, 	with 	more 	than
+30% 	of 	personal 	and 	commercial 	transfer 	needs 	explicitly 	seeking 	privacy 	protection
+solutions. 	However, 	the 	reality 	is 	that 	most 	countries 	do 	not 	provide 	compliance 	frameworks
+for 	on-chain 	privacy, 	and 	most 	blockchain 	networks 	do 	not 	provide 	users 	with 	privacy 	options.
+The 	fate 	of 	Tornado 	Cash 	is 	an 	extreme 	manifestation 	of 	this 	dilemma. 	In 	August 	2022, 	the
+US 	Department 	of 	the 	Treasury's 	OFAC 	added 	the 	decentralized 	privacy 	protocol 	to 	its
+sanctions 	list, 	citing 	the 	North 	Korean 	hacking 	group 	Lazarus 	Group's 	use 	of 	it 	to 	launder
+$625 	million 	stolen 	from 	the 	Ronin 	Network. 	The 	development 	team 	was 	criminally 	charged
+and 	the 	value 	of 	the 	token 	evaporated 	by 	more 	than 	90%.
+However, 	in 	May 	2026, 	four 	years 	later, 	the 	US 	Federal 	Court 	of 	Appeals 	overruled 	the
+
+-- 2 of 41 --
+
+Treasury 	Department's 	sanction 	of 	Tornado 	Cash's 	immutable 	smart 	contracts. 	The 	court 	ruled
+that 	these 	smart 	contracts, 	which 	became 	immutable 	code 	through 	a 	"trusted 	setup 	ceremony",
+cannot 	be 	owned 	or 	controlled 	by 	any 	entity 	and 	do 	not 	meet 	the 	definition 	of 	"property" 	in
+the 	International 	Emergency 	Economic 	Powers 	Act.Although 	the 	ruling 	clarified 	the 	power
+boundaries 	of 	the 	Ministry 	of 	Finance 	in 	the 	supervision 	of 	digital 	assets, 	the 	controversy 	lies
+in 	the 	immutable 	smart 	contracts 	without 	administrator 	keys 	- 	the 	lifting 	of 	sanctions 	only
+means 	that 	the 	smart 	contracts 	themselves 	are 	no 	longer 	subject 	to 	sanctions, 	and 	the
+developers' 	criminal 	trials 	are 	still 	ongoing. 	The 	four-year 	sanction 	vacuum 	period 	has 	caused
+irreversible 	damage 	to 	the 	agreement: 	liquidity 	drying 	up, 	user 	churn, 	and 	code 	iteration
+stagnation.
+What 	is 	more 	alarming 	is 	that 	the 	Tornado 	Cash 	incident 	did 	not 	lead 	to 	a 	more
+comprehensive 	privacy 	compliance 	framework, 	but 	instead 	led 	more 	countries 	to 	choose 	a
+"one-size-fits-all" 	approach 	- 	Monero 	was 	delisted 	by 	73 	exchanges 	in 	2025, 	including
+Coinbase, 	Binance, 	and 	Kraken. 	When 	Data 	Sovereignty 	competition 	suppresses 	privacy
+protection 	in 	the 	name 	of 	"security", 	and 	"default 	transparency" 	becomes 	the 	only 	option 	for
+blockchain, 	the 	market 	demand 	for 	privacy 	finance 	not 	only 	does 	not 	disappear, 	but 	is
+suppressed 	into 	a 	regulatory 	vacuum 	- 	this 	is 	the 	most 	dangerous 	outcome.
+1.1.2 	Compliance 	is 	the 	turning 	point 	of 	privacy: 	from
+confrontation 	to 	guidance
+In 	May 	2026, 	a 	landmark 	event 	took 	place.
+Vitalik 	Buterin, 	the 	co-founder 	of 	Ethereum, 	transferred 	50.25 	ETH, 	worth 	about 	$113,000,
+through 	the 	Privacy 	Pools 	protocol 	to 	publicly 	test 	this 	privacy 	tool 	that 	emphasizes
+compliance. 	Privacy 	Pools 	is 	based 	on 	a 	research 	paper 	co-written 	by 	Buterin 	in 	2023, 	using
+zero-knowledge 	proofs 	and 	"related 	sets" 	technology 	to 	allow 	users 	to 	prove 	the 	legitimacy 	of
+their 	funds 	without 	revealing 	specific 	transaction 	histories.Unlike 	Tornado 	Cash, 	which 	has
+been 	sanctioned, 	Privacy 	Pools 	allows 	users 	to 	prove 	that 	their 	funds 	come 	from 	vetted
+"associated 	sets", 	aiming 	to 	provide 	privacy 	protection 	while 	filtering 	out 	illegal 	funds.
+Buterin's 	move 	was 	interpreted 	by 	the 	market 	as 	a 	signal 	of 	his 	personal 	involvement 	rather
+than 	a 	simple 	transaction. 	This 	event 	marks 	the 	transition 	of 	"compliance 	privacy" 	from
+theory 	to 	practice.
+At 	the 	same 	time, 	there 	is 	a 	subtle 	but 	definite 	change 	in 	the 	regulatory 	attitude 	of 	major
+jurisdictions 	around 	the 	world:
+• 	The 	MiCA 	Regulation 	of 	the 	European 	Union 	has 	incorporated 	privacy 	protection 	into
+the 	regulatory 	framework 	for 	crypto 	assets, 	requiring 	compliance 	programs 	to 	meet 	Anti-
+Money 	Laundering 	requirements 	while 	protecting 	user 	privacy
+• 	The 	US: 	The 	CLARITY 	Act 	is 	being 	debated 	in 	Congress, 	which 	will 	define 	the 	future
+direction 	of 	cryptocurrency 	regulation
+• 	Singapore 	and 	the 	UAE: 	Both 	MAS 	and 	VARA 	are 	promoting 	the 	compliance 	process
+of 	privacy 	finance, 	incorporating 	privacy 	protection 	into 	the 	testing 	scope 	of 	the 	regulatory
+sandbox.
+
+-- 3 of 41 --
+
+These 	trends 	collectively 	point 	to 	a 	conclusion: 	privacy 	finance 	is 	evolving 	from 	a
+marginalized 	anonymous 	demand 	to 	an 	indispensable 	infrastructure 	capability 	of 	the 	digital
+financial 	system.
+1.1.3 	Privacy 	Finance: 	"Middleware" 	in 	the 	Data 	Game 	of
+Great 	Powers
+The 	core 	contradiction 	of 	the 	competition 	over 	data 	sovereignty 	is 	that 	while 	countries 	want
+to 	protect 	their 	own 	data, 	the 	operation 	of 	the 	global 	economy 	requires 	cross-border 	data 	flow.
+This 	contradiction 	is 	particularly 	prominent 	in 	the 	financial 	field. 	The 	SWIFT 	system
+processes 	billions 	of 	cross-border 	transfer 	messages 	every 	year, 	and 	more 	than 	70% 	of 	global
+trade 	financing 	relies 	on 	cross-border 	data 	flow. 	When 	countries 	tighten 	data 	export 	rules
+under 	the 	guise 	of 	"Data 	Sovereignty", 	the 	efficiency 	of 	cross-border 	finance 	is 	being
+undermined. 	The 	US 	monitors 	global 	capital 	flows 	through 	the 	SWIFT 	system 	and 	CHIPS
+clearing 	network, 	and 	enforces 	US 	financial 	sanctions 	on 	third 	countries 	through 	"long-arm
+jurisdiction". 	The 	financialization 	of 	sanction 	tools 	has 	escalated 	the 	privacy 	issue 	of
+sovereign 	countries' 	financial 	data 	from 	a 	technical 	challenge 	to 	a 	geopolitical 	issue.
+The 	emergence 	of 	privacy 	finance 	provides 	a 	solution 	to 	this 	dilemma: 	using 	technologies 	like
+zero-knowledge 	proofs 	to 	complete 	transaction 	verification 	and 	compliance 	checks 	without
+exposing 	the 	original 	data 	source. 	Data 	doesn't 	need 	to 	be 	exported, 	but 	value 	can 	be 	exported.
+Privacy 	finance 	is 	not 	meant 	to 	replace 	existing 	financial 	infrastructure, 	but 	to 	act 	as 	a
+"Middleware" 	in 	the 	Data 	Sovereignty 	game, 	connecting 	compliance 	requirements 	from
+different 	jurisdictions 	while 	protecting 	privacy 	and 	ensuring 	the 	integrity 	of 	Data 	Sovereignty.
+Looking 	deeper, 	the 	rise 	of 	privacy 	finance 	is 	essentially 	a 	redefinition 	of 	the 	concept 	of
+"Data 	Sovereignty". 	True 	Data 	Sovereignty 	is 	not 	about 	locking 	data 	within 	national 	borders,
+but 	allowing 	the 	data 	principal 	- 	whether 	it's 	a 	country 	or 	an 	individual 	- 	to 	have 	control 	over
+their 	own 	data. 	Infrastructure 	that 	can 	protect 	user 	privacy 	and 	ensure 	the 	free 	flow 	of 	value
+within 	a 	compliance 	framework 	will 	become 	a 	key 	strategic 	resource 	in 	the 	digital 	era.
+The 	increasingly 	stringent 	global 	data 	control 	and 	the 	continuous 	outbreak 	of 	privacy 	"rigid
+demand" 	coexist 	in 	the 	industry 	environment, 	deeply 	affecting 	the 	LUXWING 	Group's 	cross-
+border 	trade, 	mining, 	and 	cultural 	tourism 	businesses 	in 	multiple 	regions 	around 	the 	world.
+The 	Group's 	existing 	cross-border 	capital 	flow 	business 	is 	facing 	regulatory 	constraints 	and
+monitoring 	of 	capital 	links, 	which 	has 	become 	an 	important 	external 	driving 	factor 	for 	the
+Group 	to 	establish 	and 	develop 	the 	Liminal 	privacy 	financial 	infrastructure.
+After 	the 	completion 	of 	the 	Project 	Initiation, 	the 	Liminal 	Nexus 	Foundation, 	registered 	in
+the 	US, 	will 	be 	the 	independent 	operator 	responsible 	for 	license 	application, 	compliance
+implementation, 	and 	daily 	management 	of 	the 	ecosystem. 	Based 	on 	the 	industry 	precedent 	of
+Tornado 	Cash 	being 	sanctioned 	and 	privacy 	coins 	being 	widely 	removed 	from 	shelves,
+LUXWING 	has 	abandoned 	the 	purely 	anonymous 	development 	route 	and 	chosen 	to 	build 	a
+compliance 	privacy 	network 	relying 	on 	dual 	licenses 	from 	the 	US 	MSB 	and 	Hong 	Kong
+TCSP 	as 	the 	core 	development 	direction 	of 	Liminal.
+1.2 	LUXWING 	Group's 	industrial 	pain 	points 	drive 	project
+
+-- 4 of 41 --
+
+initiation 	and 	subject 	setting
+1.2.1 	Existing 	pain 	points 	and 	development 	bottlenecks 	of
+the 	group's 	business
+Relying 	on 	its 	global 	layout 	and 	digital 	technology 	capabilities, 	LUXWING 	Group 	has
+previously 	built 	an 	exclusive 	private 	asset 	service 	system 	for 	its 	core 	investment 	customers. 	It
+has 	innovatively 	launched 	a 	one-stop 	acceptance 	business 	based 	on 	digital 	assets, 	which 	is
+"cross-border 	+ 	cross-chain 	+ 	cross-asset". 	With 	its 	core 	service 	advantages 	of 	high 	security
+level, 	low 	fee 	cost, 	and 	real-name 	compliance, 	this 	business 	has 	quickly 	become 	an 	important
+pillar 	of 	the 	Group's 	cross-border 	financial 	sector, 	efficiently 	supporting 	the 	coordinated
+development 	of 	the 	entire 	industry 	sector 	such 	as 	cultural 	tourism, 	trade, 	and 	digital 	finance,
+achieving 	a 	300% 	leap 	in 	business 	scale 	within 	five 	years.Since 	2022, 	the 	digital 	asset 	private
+acceptance 	service 	has 	provided 	more 	than 	200,000 	safe 	and 	efficient 	services 	for 	global
+customers, 	with 	a 	total 	business 	turnover 	exceeding 	100 	million 	US 	dollars 	and 	a 	single
+business 	achieving 	a 	profit 	of 	50 	million 	US 	dollars, 	becoming 	one 	of 	the 	core 	cash 	flow
+businesses 	for 	the 	group's 	steady 	growth.
+Due 	to 	the 	implementation 	of 	global 	Data 	Sovereignty 	related 	laws, 	the 	tightening 	of 	cross-
+border 	capital 	supervision 	in 	various 	countries, 	and 	the 	normalization 	of 	SWIFT's 	long-arm
+jurisdiction, 	the 	cross-border 	capital 	settlement 	of 	the 	Group's 	African 	mining 	investment,
+South 	East 	Asia 	cultural 	tourism, 	and 	global 	cross-border 	trade 	is 	limited. 	Traditional 	cross-
+border 	remittances 	are 	costly 	and 	the 	flow 	of 	funds 	can 	be 	easily 	trackedIn 	2025, 	the 	Group
+further 	advanced 	its 	asset 	digitalization 	strategy 	and 	attempted 	to 	comprehensively 	improve
+the 	penetration 	rate 	of 	RWA 	real-world 	assets 	on 	the 	chain. 	Although 	this 	comprehensive
+upgrade 	did 	not 	fully 	meet 	the 	expected 	goals, 	the 	Group 	discovered 	through 	in-depth 	practice
+and 	technical 	verification 	that 	traditional 	financial 	instruments 	cannot 	balance 	privacy,
+compliance, 	and 	asset 	on-chain 	requirements. 	The 	existing 	private 	acceptance 	business
+urgently 	needs 	to 	break 	through 	the 	closed 	circle 	and 	move 	towards 	openness, 	compliance,
+and 	institutional 	development. 	Therefore, 	the 	development 	of 	a 	self-developed 	privacy
+infrastructure 	has 	become 	an 	inevitable 	choice 	for 	the 	Group, 	and 	the 	Liminal 	Network 	has
+been 	established 	for 	this 	purpose.The 	group's 	original 	1 	billion 	private 	acceptance 	business
+has 	been 	verified 	to 	have 	a 	mature 	profit 	model 	for 	cross-border 	finance. 	Liminal 	is 	the 	carrier
+for 	the 	expansion 	of 	this 	mature 	business 	model 	to 	the 	global 	public 	chain 	market.
+1.2.2 	Overview 	of 	LUXWING 	Group 	and 	Team 	Strength
+LUXWING 	Investment 	Holding 	Group 	(Luxwing 	Investment 	Holding 	LLC, 	referred 	to 	as
+"LUXWING") 	was 	jointly 	initiated 	by 	North 	American 	securities 	capital, 	North 	American
+Chinese 	business 	elites, 	outstanding 	entrepreneurs 	and 	senior 	financial 	experts, 	and 	was
+officially 	registered 	in 	the 	US 	state 	of 	Colorado 	in 	2019.The 	headquarters 	of 	the 	group 	is
+located 	in 	New 	York, 	the 	global 	financial 	center, 	and 	its 	business 	network 	covers 	many
+countries 	and 	regions 	such 	as 	Toronto, 	Vancouver, 	Chicago, 	Boston, 	Las 	Vegas, 	Singapore,
+Hong 	Kong, 	Macau, 	Vietnam, 	and 	Thailand. 	It 	has 	completed 	in-depth 	layout 	in 	markets 	such
+as 	South 	Africa, 	Angola, 	and 	Mozambique, 	focusing 	on 	high-growth 	tracks 	such 	as
+blockchain, 	cross-border 	trade, 	culture, 	tourism, 	entertainment, 	and 	education, 	and 	building 	a
+
+-- 5 of 41 --
+
+global 	and 	diversified 	investment 	ecosystem.
+LUXWING, 	formerly 	known 	as 	Kenieba 	Goldfields 	Ltd. 	(KEN), 	has 	been 	deeply 	involved 	in
+international 	mining, 	energy 	and 	real 	estate 	investment 	since 	its 	inception. 	It 	has 	operations 	in
+the 	Americas 	and 	Africa, 	and 	was 	successfully 	listed 	on 	the 	Toronto 	Stock 	Exchange 	in 	1997,
+with 	a 	peak 	market 	value 	of 	$9 	billion. 	In 	2012, 	the 	group 	responded 	to 	global 	industry 	trends
+and 	completed 	its 	first 	strategic 	transformation, 	focusing 	on 	international 	education, 	culture
+and 	technology 	innovation, 	and 	was 	successfully 	listed 	in 	2015.In 	2018, 	the 	group 	completed
+its 	second 	strategic 	upgrade 	and 	officially 	transformed 	into 	an 	investment 	holding 	platform,
+focusing 	on 	core 	financial 	businesses 	such 	as 	investment 	banking, 	mergers 	and 	acquisitions,
+asset 	management, 	and 	industrial 	investment. 	In 	2019, 	LUXWING 	was 	officially 	established
+in 	the 	US 	to 	build 	a 	comprehensive 	international 	financial 	investment 	system 	with 	a 	global
+perspective. 	In 	2020, 	the 	group 	underwent 	its 	third 	strategic 	upgrade, 	focusing 	on 	the 	core
+markets 	of 	North 	America 	and 	South 	East 	Asia, 	and 	prioritizing 	high-growth 	sectors 	such 	as
+blockchain, 	cultural 	tourism 	and 	entertainment, 	and 	cross-border 	trade.
+The 	group 	is 	equipped 	with 	a 	professional 	top 	management 	and 	investment 	research 	team:
+CEO 	Eric 	Smith 	has 	20 	years 	of 	experience 	in 	cross-border 	investment 	and 	financing 	and
+corporate 	restructuring 	management, 	with 	dual 	Capital 	Markets 	resources 	in 	North 	America
+and 	Asia; 	CFO 	Winfield 	Ding 	is 	a 	registered 	chartered 	accountant 	in 	Canada 	with 	many 	years
+of 	financial 	management 	experience 	in 	listed 	companies; 	in 	addition, 	there 	are 	several 	senior
+investment 	bankers 	and 	resource 	Subject-Matter 	Experts 	who 	make 	up 	the 	investment 	and
+advisory 	committee, 	providing 	capital, 	legal, 	and 	global 	channel 	support 	for 	project
+implementation.
+1.2.3 	Group's 	early 	industrial 	layout 	and 	$20 	million 	special
+project 	research 	and 	development 	preparation
+After 	a 	year 	of 	in-depth 	market 	research 	and 	strategic 	analysis, 	LUXWING 	implemented 	a
+three-pronged 	strategy 	in 	2020, 	focusing 	on 	cultural 	tourism, 	entertainment, 	cross-border
+finance, 	and 	digital 	assets. 	In 	South 	East 	Asia, 	they 	established 	a 	cultural 	tourism 	entity
+project, 	in 	Macau 	they 	focused 	on 	compliance 	consulting, 	in 	Hong 	Kong 	they 	delved 	into
+cross-border 	trade 	and 	cross-border 	financial 	services, 	and 	in 	Singapore 	they 	set 	up 	a
+blockchain 	special 	project, 	Mutual 	Fund.
+Under 	the 	global 	epidemic 	and 	geopolitical 	volatility, 	the 	group's 	diversified 	businesses 	have
+achieved 	risk 	hedging 	and 	overall 	asset 	growth. 	Since 	2021, 	the 	group 	has 	implemented 	a 	$20
+million 	special 	project 	blockchain 	innovation 	investment 	plan, 	focusing 	on 	cross-border
+financial 	digitalization 	and 	providing 	sufficient 	financial 	reserves 	for 	Liminal's 	technology
+research 	and 	development 	and 	license 	application.Based 	on 	the 	changing 	regulatory
+environments 	around 	the 	world, 	the 	Group 	proactively 	promotes 	Liminal 	to 	apply 	for 	dual
+licenses 	of 	US 	MSB 	and 	Hong 	Kong 	TCSP. 	Relying 	on 	compliance 	qualifications 	to 	avoid
+the 	risk 	of 	regulatory 	bans 	commonly 	found 	in 	the 	privacy 	track, 	it 	is 	also 	a 	key 	business
+guarantee 	for 	the 	project 	to 	implement 	the 	compliance 	and 	privacy 	route.
+1.2.4 	Liminal's 	strategic 	value 	to 	LUXWING 	Group
+
+-- 6 of 41 --
+
+a. 	Empower 	the 	main 	business 	of 	the 	entity:Rely 	on 	privacy 	technology 	to
+optimize 	the 	global 	fund 	settlement 	of 	the 	group's 	African 	mining, 	Southeast 	Asia 	real
+estate, 	and 	cross-border 	import 	and 	export 	trade, 	to 	break 	free 	from 	the 	regulatory
+constraints 	of 	SWIFT 	and 	the 	inefficiency 	of 	traditional 	cross-border 	transfer, 	and 	to
+meet 	the 	demand 	for 	the 	tokenization 	of 	the 	group's 	RWA 	physical 	assets
+b. 	Expanding 	new 	business 	segments: 	Shifting 	from 	the 	original 	closed 	private
+acceptance 	to 	compliance 	and 	privacy 	DeFi 	business 	facing 	the 	global 	market, 	creating 	a
+new 	long-term 	cash 	flow 	source 	for 	the 	group
+c. 	Optimize 	the 	group's 	asset 	structure: 	LIM 	ecosystem 	tokens 	as 	a 	capitalization
+carrier, 	realize 	the 	realization 	of 	the 	group's 	blockchain 	industry 	investment 	value, 	and
+improve 	the 	group's 	cross-cycle 	risk-resistant 	layout 	of 	"traditional 	industry 	+ 	digital
+finance".
+1.3 	Market 	Demand 	and 	Track 	Development 	Status
+1.3.1 	Structural 	recovery 	of 	the 	privacy 	track
+From 	a 	market 	perspective, 	the 	privacy 	track 	is 	experiencing 	an 	unprecedented 	structural
+rebound.
+In 	the 	second 	half 	of 	2025, 	traditional 	privacy 	assets 	represented 	by 	Zcash 	and 	Monero
+significantly 	outperformed 	the 	market. 	Zcash's 	highest 	annual 	increase 	was 	nearly 	1100%,
+and 	its 	market 	value 	once 	exceeded 	Monero's, 	reflecting 	the 	market's 	repricing 	of 	"optional
+privacy" 	and 	"compliance 	flexibility". 	The 	overall 	performance 	of 	privacy 	coins 	outperformed
+Bitcoin 	and 	Ethereum, 	and 	the 	real 	usage 	on 	the 	chain 	continued 	to 	increase, 	with 	the
+transaction 	ratio 	increasing 	from 	about 	9.7% 	to 	11.4%. 	As 	of 	January 	2026, 	the 	total 	market
+value 	of 	the 	privacy 	coin 	sector 	reached 	$22.7 	billion, 	with 	Monero 	and 	Zcash 	accounting 	for
+85% 	of 	the 	market 	share.Zcash 	reached 	its 	annual 	peak 	in 	May 	2026, 	breaking 	through 	$585.
+Unlike 	previous 	privacy 	coins, 	which 	were 	mainly 	used 	as 	niche 	hedging 	assets, 	this 	round 	of
+recovery 	reflects 	a 	reassessment 	of 	the 	long-term 	value 	of 	privacy 	infrastructure. 	The 	market
+is 	recognizing 	that 	privacy 	is 	not 	a 	detachable 	functional 	module, 	but 	one 	of 	the 	core 	pillars 	of
+the 	digital 	financial 	system.
+In 	the 	broader 	field 	of 	privacy-enhancing 	computing, 	the 	global 	market 	size 	is 	expected 	to
+reach 	$12.6 	billion 	by 	2031, 	with 	an 	annual 	compound 	growth 	rate 	of 	more 	than 	15%. 	This
+growth 	will 	not 	only 	come 	from 	crypto-native 	users, 	but 	also 	from 	the 	rigid 	demand 	for 	data
+privacy 	solutions 	from 	traditional 	financial 	institutions, 	multinational 	corporations, 	and
+government 	agencies.
+1.3.2 	market 	segmentation 	of 	three 	layers 	of 	rigid 	demand
+a. 	C 	端个人用户请求：Encryption 	market 	users 	are 	generally 	facing 	the 	problem 	of
+full 	transparency 	of 	public 	chain 	transactions 	and 	tracking 	of 	holdings 	on 	the 	chain, 	and
+there 	is 	a 	demand 	for 	anonymous 	transfers; 	at 	the 	same 	time, 	traditional 	centralized
+wealth 	management 	has 	frequent 	defaults, 	and 	mainstream 	public 	chain 	wealth
+
+-- 7 of 41 --
+
+management 	is 	greatly 	affected 	by 	the 	fluctuation 	of 	coin 	prices. 	The 	market 	needs 	a
+stable 	wealth 	management 	product 	based 	on 	USDT 	and 	taking 	into 	account 	privacy
+attributes. 	Previously, 	there 	was 	a 	scarcity 	of 	compliance 	privacy 	wealth 	management
+products, 	and 	a 	large 	demand 	was 	continuously 	backlogged. 	Corresponding 	products:
+Liminal 	Portal 	meets 	the 	demand 	for 	anonymous 	transfers, 	and 	Liminal 	Pool 	relies 	on
+pledged 	wealth 	management 	to 	meet 	users' 	demand 	for 	stable 	appreciation.
+b. 	B-end 	cross-border 	trade 	demand: 	Global 	foreign 	trade 	and 	small 	and 	medium-
+sized 	cross-border 	enterprises 	are 	subject 	to 	data 	export 	regulations 	and 	SWIFT 	fund
+monitoring 	in 	various 	countries. 	Business 	transaction 	flow 	and 	cooperation 	target
+information 	are 	easily 	leaked, 	and 	there 	is 	a 	need 	for 	a 	privacy 	settlement 	tool 	that 	can
+hide 	the 	flow 	of 	funds 	under 	compliance 	and 	reduce 	the 	cost 	of 	cross-border 	exchange
+and 	compliance. 	Corresponding 	product: 	Portal 	cross-chain 	privacy 	exchange 	function 	to
+solve 	the 	pain 	point 	of 	cross-border 	privacy 	payment 	for 	merchants.
+c. 	Institutional 	business 	needs: 	Family 	offices, 	small 	and 	medium-sized 	asset
+management 	institutions, 	compliance 	exchanges 	are 	subject 	to 	global 	regulatory
+constraints, 	requiring 	both 	Anti 	Money 	Laundering 	compliance 	and 	large 	asset 	privacy
+management 	and 	transfer 	services; 	the 	process 	of 	on-chain 	landing 	of 	various 	physical
+assets 	RWA 	also 	requires 	a 	privacy 	underlying 	protocol 	as 	a 	circulation 	infrastructure.
+Corresponding 	products: 	Liminal 	compliance 	zero-knowledge 	proof 	module, 	privacy
+underlying 	pool, 	providing 	customized 	privacy 	solutions 	for 	institutions.
+Foreign 	trade 	cross-border 	merchants 	can 	use 	the 	Portal 	to 	complete 	cross-border 	payment
+privacy 	transfer, 	and 	asset 	management 	institutions 	can 	rely 	on 	Liminal 	compliance 	to
+achieve 	large-scale 	asset 	privacy 	management, 	accurately 	meeting 	the 	three 	types 	of 	rigid
+demand.
+1.3.3 	The 	track 	supply 	gap 	and 	the 	strategic 	position 	of
+Liminal 	in 	the 	ecosystem
+At 	the 	intersection 	of 	the 	aforementioned 	industry 	pain 	points, 	regulatory 	evolution, 	and
+market 	trends, 	there 	is 	a 	clear 	strategic 	void 	in 	the 	privacy 	DeFi 	track:
+In 	the 	global 	privacy 	DeFi 	track, 	there 	are 	almost 	no 	projects 	that 	have 	both 	"whole-link
+privacy 	protection" 	and 	"compliance 	qualifications 	in 	multiple 	jurisdictions".
+The 	existing 	participants 	in 	the 	market 	have 	their 	own 	limitations:
+Project 	Type 	Representative
+project
+Core 	Limitations
+Traditional
+privacy 	coins
+Monero、Zcash 	Only 	anonymous 	transfer 	function 	is
+available, 	there 	is 	no 	wealth 	management
+mechanism, 	and 	assets 	cannot 	be 	increased 	in
+value
+
+-- 8 of 41 --
+
+Coin 	mixer 	Tornado 	Cash 	(has
+been 	sanctioned)
+The 	function 	is 	single, 	the 	compliance
+flexibility 	is 	zero, 	and 	the 	regulatory 	risk 	is
+extremely 	high
+Transparent
+DeFi
+Aave、Uniswap 	Fully 	transparent, 	user 	addresses 	and 	fund
+size 	are 	publicly 	available 	and 	can 	be 	checked
+Centralized
+privacy
+wealth
+management
+All 	kinds 	of 	Cefi
+platforms
+Managed 	risk, 	review 	risk, 	and 	asset 	security
+cannot 	be 	guaranteed
+Liminal 	Network 	has 	chosen 	a 	differentiated 	strategic 	positioning:
+The 	world's 	first 	privacy 	finance 	network 	that 	deeply 	integrates 	"whole-link 	privacy
+protection", 	"decentralized 	stable 	wealth 	management", 	and 	"compliance 	qualifications 	in
+multiple 	jurisdictions".
+• 	To 	users: 	Provide 	an 	all-in-one 	experience 	of 	anonymous 	security, 	low-threshold
+financial 	management, 	and 	global 	free 	circulation;
+• 	To 	the 	market: 	Fill 	the 	void 	in 	the 	privacy 	DeFi 	track 	and 	respond 	to 	the 	trillion-level
+compliance 	privacy 	demand;
+• 	For 	the 	industry: 	Promoting 	the 	transition 	of 	Web3 	from 	"default 	transparency" 	to
+"optional 	privacy", 	providing 	technical 	infrastructure 	for 	Data 	Sovereignty 	competition.
+Macro 	industry 	policies 	give 	rise 	to 	compliance 	privacy 	trends, 	LUXWING's 	own 	industrial
+development 	forms 	an 	endogenous 	demand 	for 	landing, 	and 	the 	market's 	multi-level 	rigid
+demand 	superimposes 	a 	supply 	gap 	in 	the 	track. 	These 	three 	conditions 	jointly 	promote 	the
+landing 	of 	Liminal 	Network.
+The 	global 	competition 	for 	data 	sovereignty 	is 	reshaping 	the 	rules 	of 	the 	digital 	era. 	As
+countries 	tighten 	data 	flow 	under 	the 	guise 	of 	"sovereignty", 	blockchain's 	"default
+transparency" 	exposes 	users' 	privacy, 	Tornado 	Cash 	is 	crippled 	by 	four-year 	sanctions, 	and
+Buterin's 	real-world 	testing 	of 	compliance 	privacy 	tools 	- 	the 	rise 	of 	privacy 	finance 	- 	is 	not 	a
+coincidence, 	but 	a 	necessity.
+Against 	this 	macro 	background, 	Liminal 	Network 	is 	building 	a 	financial 	infrastructure 	that
+can 	simultaneously 	meet 	the 	compliance 	requirements 	of 	various 	countries, 	protect 	user
+privacy, 	and 	ensure 	the 	free 	flow 	of 	value. 	It 	is 	not 	only 	a 	pioneer 	in 	the 	privacy 	track, 	but
+also 	a 	key 	infrastructure 	in 	the 	global 	Data 	Sovereignty 	competition 	landscape.
+
+-- 9 of 41 --
+
+Chapter 	2: 	Product 	System 	and 	Technical
+Architecture 	of 	Liminal 	Network
+2.1 	Product 	Positioning: 	The 	Infrastructure 	Layer 	of
+Privacy 	Finance
+Liminal 	Network 	is 	not 	a 	single-function 	privacy 	tool 	or 	a 	traditional 	DeFi 	protocol. 	It 	is 	the
+privacy 	liquidity 	layer 	of 	Web3 	- 	an 	open, 	permissionless 	privacy 	pool 	network 	that
+transforms 	anonymity 	from 	a 	hidden 	cost 	into 	a 	scarce 	asset 	that 	can 	be 	priced, 	supplied, 	and
+incentivized.
+The 	project 	deeply 	inherits 	Monero's 	underlying 	privacy 	technology 	genes, 	adding
+decentralized 	wealth 	management 	capabilities 	on 	top 	of 	Monero's 	transfer 	support, 	to 	fill 	the
+structural 	gaps 	of 	existing 	products 	in 	the 	industry.
+The 	core 	positioning 	of 	the 	project 	can 	be 	summarized 	into 	three 	levels:
+• 	For 	privacy 	users: 	Provide 	whole-link 	anonymous 	transfer, 	exchange, 	and 	asset
+distribution 	services 	without 	exposing 	addresses 	and 	identities;
+• 	For 	liquidity 	providers: 	By 	injecting 	USDT 	into 	the 	privacy 	pool, 	they 	can 	obtain 	stable
+on-chain 	income 	and 	LIM 	token 	incentives. 	The 	specific 	income 	rules 	and 	income 	model 	can
+be 	found 	in 	Chapter 	3
+• 	To 	ecosystem 	builders: 	Participate 	in 	network 	governance 	through 	the 	node 	mechanism,
+and 	refer 	to 	Chapter 	3, 	Section 	3.7 	for 	details 	on 	node 	hierarchies 	and 	reward 	rules.
+This 	three-in-one 	architecture 	makes 	Liminal 	the 	threshold 	between 	the 	"transparent 	world"
+and 	the 	"privacy 	network" 	- 	all 	operations 	within 	the 	door 	are 	anonymous 	by 	default, 	and 	no
+one 	outside 	knows 	what 	is 	happening.
+2.2 	Three 	major 	product 	modules
+Liminal 	Network 	consists 	of 	three 	core 	product 	modules, 	which 	correspond 	to 	the 	three
+functional 	levels 	of 	privacy 	transactions, 	liquidity 	supply, 	and 	governance 	co-construction.
+2.2.1 	Liminal 	Portal: 	Privacy 	Gateway 	(Privacy 	Electronic 	Cash)
+Portal 	is 	the 	unified 	entry 	point 	for 	end 	users 	of 	Liminal, 	providing 	the 	following 	core
+functions:
+Function
+Module
+Description
+Exchange
+instant
+Users 	transfer 	assets 	such 	as 	USDT 	to 	the 	system-assigned 	collection
+address, 	and 	the 	assets 	are 	automatically 	anonymously 	delivered 	to 	the
+target 	address. 	There 	is 	no 	on-chain 	connection 	between 	the 	sender 	and 	the
+
+-- 10 of 41 --
+
+exchange 	receiver.
+Encrypted
+exchange
+code
+Deposit 	funds 	to 	generate 	a 	unique 	encrypted 	exchange 	code, 	which 	the
+recipient 	can 	use 	to 	pick 	up 	the 	funds. 	Support 	binding 	address 	and 	valid
+period 	settings, 	suitable 	for 	scenarios 	such 	as 	timed 	release 	and 	targeted
+transfer.
+Catbox
+Password
+Red
+Envelope
+The 	creator 	sets 	the 	password 	and 	amount, 	and 	others 	can 	receive 	it 	by
+entering 	the 	correct 	password. 	It 	is 	suitable 	for 	social 	and 	private
+distribution 	scenarios 	such 	as 	community 	airdrops 	and 	event 	incentives.
+Address
+book 	and
+billing
+system
+Save 	frequently 	used 	addresses, 	view 	complete 	financial 	transactions, 	and
+destroy 	records 	to 	improve 	the 	efficiency 	and 	transparency 	of 	high-
+frequency 	users.
+The 	design 	philosophy 	of 	Portal 	is 	"privacy 	by 	default" 	- 	from 	the 	moment 	the 	user 	opens 	the
+page, 	all 	operations 	are 	carried 	out 	under 	the 	protection 	of 	privacy.
+2.2.2 	Liminal 	Pool: 	Privacy 	Liquidity 	Protocol
+Pool 	is 	the 	on-chain 	revenue 	infrastructure 	of 	Liminal, 	which 	is 	essentially 	a 	mixing 	pool
+based 	on 	zero-knowledge 	proofs. 	After 	users' 	USDT 	enters 	the 	pool, 	it 	is 	mixed 	with 	other
+funds 	and 	anonymously 	reorganized 	through 	ring 	signatures 	and 	stealth 	addresses. 	The 	larger
+the 	pool 	size, 	the 	higher 	the 	mixing 	depth, 	and 	the 	stronger 	the 	anonymity 	of 	the 	entire
+network. 	Each 	deposit 	enhances 	the 	protection 	of 	the 	entire 	privacy 	network.
+Pool 	funds 	simultaneously 	serve 	two 	scenarios: 	the 	privacy 	transfer 	market 	and 	the 	cross-
+chain 	privacy 	exchange 	market.
+
+2.3 	Underlying 	Privacy 	Technology 	Architecture
+The 	privacy 	protection 	of 	Liminal 	Network 	is 	derived 	from 	its 	strong 	underlying 	technical
+architecture. 	Four 	core 	privacy 	technologies 	work 	together 	to 	ensure 	the 	absolute 	privacy 	of
+the 	transaction 	subject, 	amount, 	and 	network 	identity, 	achieving 	true 	whole-link 	transaction
+
+-- 11 of 41 --
+
+anonymity 	and 	untraceability.
+2.3.1 	Ring 	Signature 	- 	Hides 	the 	sender
+By 	mixing 	multiple 	decoy 	public 	keys 	to 	form 	a 	signature 	ring, 	the 	identity 	of 	the 	real 	sender
+is 	hidden 	among 	a 	set 	of 	possible 	signers. 	It 	is 	impossible 	for 	outsiders 	to 	distinguish 	who 	is
+the 	real 	initiator 	of 	the 	transaction, 	thus 	achieving 	complete 	anonymity 	for 	the 	sender.
+2.3.2 	Stealth 	Address 	- 	Hides 	the 	recipient
+Generate 	a 	unique 	and 	one-time 	random 	receiving 	address 	for 	each 	transaction. 	This 	address
+cannot 	be 	directly 	associated 	with 	the 	recipient's 	original 	public 	key, 	cutting 	off 	the 	flow 	of
+funds 	on 	the 	blockchain 	and 	effectively 	protecting 	the 	recipient's 	privacy.
+2.3.3 	RingCT 	+ 	Zero-Knowledge 	Proof 	- 	Hide 	Transaction
+Amount
+Using 	Ring 	Confidential 	Transactions 	(RingCT) 	to 	obfuscate 	the 	actual 	amount 	of
+transactions 	and 	combining 	it 	with 	zero-knowledge 	proof 	technology, 	the 	legitimacy 	of 	the
+transaction 	can 	be 	proven 	to 	the 	network 	without 	revealing 	the 	specific 	amount. 	The
+transaction 	amount 	is 	encrypted 	throughout 	the 	process 	and 	cannot 	be 	known 	by 	any 	third
+party.
+2.3.4 	Dandelion++ 	- 	Hides 	the 	user's 	IP 	address
+In 	order 	to 	hide 	users' 	IP 	addresses, 	the 	official 	Liminal 	Client 	(scheduled 	to 	be 	launched 	in
+the 	second 	phase) 	will 	integrate 	the 	Dandelion++ 	protocol.
+The 	specific 	mechanism 	is: 	transactions 	initiated 	by 	users 	will 	not 	be 	directly 	broadcasted 	to
+the 	entire 	network, 	but 	will 	first 	go 	through 	2-3 	randomly 	selected 	relay 	nodes 	(through
+libp2p 	private 	channels), 	and 	finally 	broadcasted 	by 	the 	last 	node. 	This 	can 	prevent 	public
+RPC 	nodes 	(such 	as 	Infura) 	or 	on-chain 	analysis 	companies 	from 	associating 	transactions
+through 	IP.
+Four-dimensional 	coverage 	of 	privacy 	protection:
+Privacy
+dimension
+Corresponding
+technology
+Protection 	effect
+Who 	sent 	it? 	Ring 	signature 	The 	sender 	is 	concealed 	within 	the 	group
+Who 	should 	it 	be
+sent 	to?
+Covert 	address 	The 	recipient's 	address 	is 	one-time 	and 	cannot
+be 	associated
+How 	much
+should 	I 	send?
+RingCT 	+ 	ZK 	The 	amount 	is 	encrypted 	throughout 	the
+process
+
+-- 12 of 41 --
+
+Where 	did 	it
+come 	from?
+Dandelion++ 	The 	IP 	address 	cannot 	be 	located
+Note: 	If 	a 	user 	submits 	a 	transaction 	through 	a 	public 	RPC 	node 	using 	a 	third-party 	wallet
+(such 	as 	MetaMask), 	the 	IP 	address 	may 	still 	be 	recorded 	by 	the 	RPC 	node. 	To 	achieve
+complete 	IP 	privacy 	protection, 	it 	is 	recommended 	that 	users 	run 	their 	own 	Ethereum 	node 	or
+use 	the 	official 	Liminal 	Client.
+2.3.5 	Privacy 	Implementation 	Compatible 	with 	EVM
+The 	core 	privacy 	pool 	of 	Liminal 	does 	not 	directly 	use 	ring 	signatures 	in 	a 	single 	transaction
+(because 	the 	Ethereum 	account 	model 	does 	not 	support 	UTXO 	similar 	to 	Monero), 	but 	adopts
+a 	mixer 	architecture 	based 	on 	zero-knowledge 	proofs. 	The 	specific 	implementation 	is 	as
+follows:
+• 	When 	a 	user 	deposits 	assets, 	a 	secret 	(nullifier) 	and 	commitment 	are 	generated, 	and 	the
+commitment 	is 	stored 	in 	a 	smart 	contract.
+• 	When 	extracting 	assets, 	users 	use 	zero-knowledge 	proofs 	(such 	as 	the 	PLONK 	protocol)
+to 	prove 	that 	they 	know 	the 	secret 	corresponding 	to 	an 	unused 	commitment, 	and 	this 	secret 	is
+not 	associated 	with 	any 	extracted 	records.
+• 	The 	ring 	signature 	effect 	is 	simulated 	by 	an 	anonymous 	set: 	each 	commitment 	is 	mixed
+with 	a 	large 	number 	of 	historical 	commitments 	in 	the 	Merkle 	tree, 	and 	when 	extracted, 	the
+prover 	randomly 	selects 	a 	set 	of 	leaves 	(decoys) 	from 	the 	tree, 	making 	it 	impossible 	for
+outsiders 	to 	determine 	which 	specific 	deposit 	the 	extractor 	corresponds 	to.
+The 	solution 	has 	been 	validated 	in 	Tornado 	Cash 	and 	Privacy 	Pools, 	and 	Liminal 	has 	added
+multi-asset 	support 	(USDT, 	LIM) 	and 	a 	programmable 	compliance 	layer 	on 	this 	basis. 	The
+specific 	circuit 	code 	will 	be 	open-sourced 	and 	subject 	to 	third-party 	audit.
+2.4 	Core 	privacy 	and 	anti-censorship 	features
+Based 	on 	the 	above 	technical 	architecture, 	Liminal 	Network 	has 	six 	core 	features:
+Characteristic 	Description
+Transactions
+are
+confidential
+and
+untraceable
+All 	transactions 	are 	anonymous 	by 	default, 	with 	identities, 	amounts, 	and
+IP 	addresses 	fully 	hidden 	to 	maximize 	the 	protection 	of 	users' 	financial
+privacy 	and 	security.
+Anti-
+censorship 	and
+borderless
+circulation
+Assets 	cannot 	be 	frozen 	or 	blocked, 	there 	are 	no 	geographical
+restrictions, 	and 	confirmations 	can 	be 	made 	in 	seconds 	globally,
+ensuring 	the 	free 	flow 	of 	funds.
+
+-- 13 of 41 --
+
+Fully
+substitutable
+LIM 	does 	not 	have 	the 	concept 	of 	"tainted 	coins", 	all 	tokens 	have 	the
+same 	attributes 	and 	are 	interchangeable, 	ensuring 	the 	uniformity 	of 	the
+asset 	circulation 	value.
+Decentralizatio
+n 	and 	shared
+governance
+Adhering 	to 	the 	principle 	of 	fair 	publishing, 	major 	decisions 	of 	the
+ecosystem 	are 	determined 	by 	community 	voting, 	eliminating 	the 	single-
+point 	control 	of 	centralized 	institutions.
+Unbreakable
+security
+Adopting 	military-grade 	high-strength 	encryption 	algorithms, 	the 	code 	is
+open-source 	and 	subject 	to 	global 	audit, 	and 	the 	system 	has 	strong 	anti-
+attack 	capabilities.
+Dynamically
+scalable
+The 	innovative 	dynamic 	block 	size 	mechanism 	achieves 	the 	best 	balance
+between 	privacy 	protection, 	system 	throughput 	(TPS), 	and 	cyber
+security.
+2.5 	Dual 	Token 	System: 	LIM 	and 	USDT
+Liminal 	adopts 	a 	dual-token 	system, 	which 	assumes 	the 	roles 	of 	the 	value 	carrier 	of 	the
+ecosystem 	and 	the 	stable 	pledging 	tool.
+2.5.1 	LIM: 	Privacy 	Ecosystem 	Token
+• 	Role: 	The 	"blood" 	and 	"proof 	of 	stake" 	of 	the 	ecosystem.
+• 	Function:
+￮ 	Privacy 	Credential: 	To 	use 	the 	privacy 	service, 	you 	need 	to 	consume 	LIM;
+￮ 	Revenue 	carriers: 	Both 	escrow 	output 	and 	node 	rewards 	are 	issued 	in 	LIM;
+￮ 	Governance 	tokens: 	future 	DAO 	voting 	and 	agreement 	parameter 	decision-making
+power;
+￮ 	Destruction 	of 	targets: 	VIP 	upgrades 	and 	part 	of 	the 	handling 	fee 	will 	be
+permanently 	destroyed 	in 	the 	form 	of 	LIM.
+2.5.2 	USDT: 	Stablecoin 	pledging 	vehicle
+• 	Role: 	The 	"stabilizer" 	of 	the 	ecosystem 	and 	the 	"entry 	ticket" 	for 	users.
+• 	Function:
+￮ 	As 	a 	stable 	pledged 	asset, 	it 	provides 	users 	with 	a 	low-risk 	and 	low-threshold
+participation 	channel
+￮ 	All 	ecosystem 	revenues 	are 	settled 	in 	USDT, 	effectively 	isolating 	the 	risk 	of
+currency 	price 	fluctuations
+￮ 	Ensure 	the 	relative 	stability 	of 	the 	value 	of 	user 	assets.
+
+-- 14 of 41 --
+
+The 	design 	logic 	of 	the 	dual 	token 	system 	is 	to 	use 	USDT 	to 	reduce 	the 	psychological
+threshold 	of 	customer 	engagement 	and 	market 	volatility 	risk, 	and 	use 	LIM 	to 	capture 	the
+long-term 	value 	of 	ecosystem 	growth. 	The 	two 	complement 	each 	other 	to 	form 	a 	self-
+reinforcing 	economic 	flywheel.
+2.6 	Compliance 	Architecture: 	Institutional 	Guarantee 	for
+Privacy 	Innovation
+Against 	the 	backdrop 	of 	the 	increasingly 	fierce 	global 	competition 	for 	data 	sovereignty,
+privacy 	finance 	projects 	cannot 	and 	should 	not 	exist 	outside 	the 	regulatory 	system. 	Liminal
+Network 	has 	made 	compliance 	a 	core 	strategic 	pillar 	from 	the 	outset.
+2.6.1 	Operating 	entity 	and 	license
+• 	Liminal 	Nexus 	Foundation: 	Completed 	legal 	registration 	in 	the 	US 	as 	the 	core 	operating
+entity 	of 	the 	project.
+• 	MSB 	License: 	Successfully 	obtained 	the 	Money 	Service 	Business 	License 	issued 	by 	the
+US 	Department 	of 	the 	Treasury's 	FinCEN, 	becoming 	a 	highly 	scarce 	licensed 	project 	in 	the
+privacy 	track.
+• 	Hong 	Kong 	TCSP 	License: 	Obtaining 	a 	Hong 	Kong 	Trust 	or 	Company 	Service 	Provider
+License 	allows 	you 	to 	provide 	regulated 	digital 	asset 	custody 	services 	in 	Hong 	Kong.
+2.6.2 	Balancing 	compliance 	and 	privacy
+Liminal 	is 	developing 	a 	"compliance 	proof" 	module 	based 	on 	the 	Groth16 	zero-knowledge
+proof 	scheme, 	allowing 	users 	to 	generate 	two 	types 	of 	proofs:
+• 	Proof 	of 	non-black 	involvement 	of 	funds: 	Users 	can 	prove 	that 	the 	USDT 	deposited 	into
+the 	privacy 	pool 	comes 	from 	an 	audited 	allowlist 	address 	pool 	(such 	as 	Coinbase 	or 	Binance
+withdrawal 	addresses), 	without 	disclosing 	the 	specific 	address.
+• 	Non-association 	proof: 	Users 	can 	prove 	that 	their 	funds 	have 	not 	interacted 	directly 	or
+indirectly 	with 	OFAC 	sanctioned 	addresses, 	without 	disclosing 	the 	transaction 	graph.
+The 	verification 	interface 	for 	proof 	will 	be 	open 	to 	compliance 	exchanges, 	audit 	institutions,
+and 	regulatory 	nodes. 	Technology 	Implementation 	refers 	to 	the 	Privacy 	Pools 	correlation 	set
+model 	proposed 	by 	Vitalik 	Buterin, 	and 	plans 	to 	launch 	the 	public 	beta 	version 	of 	this 	module
+in 	the 	second 	phase.
+2.6.3 	Strategic 	Value 	of 	Compliance 	Qualifications
+The 	core 	value 	of 	the 	MSB 	license 	and 	the 	Hong 	Kong 	TCSP 	license 	is 	that 	they 	allow
+Liminal 	to 	have 	the 	qualifications 	to 	communicate 	with 	mainstream 	financial 	institutions.
+When 	the 	compliance 	exchange 	is 	reviewing 	the 	listing 	of 	a 	project, 	the 	compliance
+qualifications 	of 	the 	project 	party 	are 	listed 	as 	a 	core 	evaluation 	indicator; 	when 	family 	offices
+and 	compliance 	funds 	are 	allocating 	crypto 	assets, 	they 	usually 	require 	the 	project 	party 	to
+have 	a 	clear 	regulatory 	identity. 	This 	means 	that 	Liminal's 	compliance 	privacy 	network 	is 	not
+
+-- 15 of 41 --
+
+only 	a 	technical 	solution, 	but 	also 	a 	financial 	infrastructure 	that 	can 	legally 	operate 	within 	the
+regulatory 	framework 	of 	major 	global 	economies.
+
+-- 16 of 41 --
+
+Chapter 	3: 	Economic 	Model
+3.1 	Design 	Principles: 	Fairness, 	Deflation, 	Sustainability
+The 	economic 	model 	of 	Liminal 	Network 	is 	built 	around 	three 	core 	principles:
+• 	Fair 	Start: 	No 	pre-mining, 	no 	ICO, 	no 	team 	private 	sale. 	90% 	of 	the 	tokens 	are 	produced
+through 	ecosystem 	contributions, 	liquidity 	mining, 	and 	community 	activities, 	to 	ensure 	fair
+distribution 	to 	the 	maximum 	extent.
+• 	Built-in 	deflation: 	Through 	the 	triple 	mechanism 	of 	upgrade 	destruction, 	fee 	destruction,
+and 	production 	decay, 	the 	circulation 	supply 	of 	LIM 	is 	continuously 	reduced, 	providing
+structural 	support 	for 	long-term 	value.
+• 	Sustainable 	incentives: 	18-cycle 	linear 	decay 	model 	balances 	early 	incentives 	with 	long-
+term 	development, 	avoiding 	runaway 	inflation 	or 	exhaustion 	of 	incentives.
+The 	design 	goal 	of 	this 	model 	is 	not 	to 	pursue 	short-term 	speculation 	of 	token 	prices, 	but 	to
+build 	a 	self-reinforcing 	economic 	flywheel: 	ecosystem 	usage 	drives 	LIM 	demand, 	demand
+drives 	value, 	value 	drives 	more 	customer 	engagement, 	and 	participation 	further 	expands 	the
+ecosystem's 	scale.
+3.2 	Dual 	Token 	System: 	LIM 	and 	USDT
+Liminal 	adopts 	a 	dual 	token 	system, 	which 	assumes 	the 	roles 	of 	the 	value 	carrier 	of 	the
+ecosystem 	and 	the 	stable 	pledging 	tool. 	USDT 	reduces 	the 	user 	risk 	of 	market 	volatility, 	while
+LIM 	can 	capture 	the 	long-term 	value 	of 	the 	ecosystem's 	growth.
+3.2.1 	LIM: 	Privacy 	Ecosystem 	Token
+Attribute 	Description
+Total 	amount 	1,000,000,000 	units, 	with 	no 	additional 	issuance
+Role 	The 	"blood" 	and 	"Proof 	of 	Stake" 	of 	the 	ecosystem
+Core 	Function 	Privacy 	Credential: 	To 	use 	the 	privacy 	service, 	you 	need 	to 	consume
+LIM
+Revenue 	carriers: 	Both 	the 	escrow 	output 	and 	node 	rewards 	are
+issued 	in 	LIM
+Destroyed 	items: 	VIP 	upgrades 	and 	some 	fees 	will 	be 	permanently
+destroyed 	in 	the 	form 	of 	LIM
+Governance 	tokens: 	future 	DAO 	voting 	and 	agreement 	parameter
+
+-- 17 of 41 --
+
+decision-making 	power;
+The 	value 	of 	LIM 	is 	anchored 	in 	the 	real 	needs 	of 	the 	ecosystem 	operation, 	not 	speculation
+and 	hype. 	Every 	private 	transfer, 	every 	VIP 	upgrade, 	and 	every 	node 	subscription 	constitutes
+a 	rigid 	demand 	for 	LIM.
+3.2.2 	USDT: 	Stablecoin 	pledging 	vehicle
+Attribute 	Description
+Role 	The 	"stabilizer" 	of 	the 	ecosystem 	and 	the 	"entry 	ticket" 	for 	users
+Core
+Function
+• 	Pledged 	Assets: 	Users 	deposit 	USDT 	to 	participate 	in 	escrow 	and 	earn
+stable 	income
+• 	Profit 	settlement: 	All 	ecosystem 	profits 	are 	settled 	in 	USDT
+• 	Value 	anchoring: 	isolating 	the 	impact 	of 	LIM 	price 	fluctuations 	on 	user
+principal
+The 	choice 	of 	USDT 	is 	based 	on 	its 	market 	position 	as 	the 	largest, 	most 	liquid, 	and 	most
+widely 	accepted 	stablecoin 	in 	the 	world. 	Using 	USDT 	as 	the 	collateral 	means 	that 	Liminal
+maintains 	the 	lowest 	participation 	threshold 	for 	global 	users.
+3.3 	LIM 	Publishing 	Mechanism 	and 	Allocation 	Structure
+3.3.1 	Total 	Amount 	and 	Fixed 	Commitment
+The 	total 	amount 	of 	LIM 	is 	fixed 	at 	1,000,000,000, 	and 	the 	protocol 	guarantees 	that 	it 	will
+never 	be 	issued 	again.
+3.3.2 	Allocation 	Structure
+Assign
+object
+Prop
+ortio
+n
+Quantity
+(pieces)
+Release 	rules
+Ecosystem
+rewards
+90% 	900,000,000 	Gradually 	released 	through 	managed 	output,
+node 	rewards, 	and 	community 	activities
+Node 	1% 	10,000,000 	1000 	nodes 	subscribe 	and 	the 	total 	amount 	is
+capped
+
+-- 18 of 41 --
+
+Operation 	4% 	40,000,000 	36-month 	linear 	release
+Team 	3% 	30,000,000 	36-month 	linear 	release
+The 	pot 	2% 	20,000,000 	It 	is 	used 	for 	liquidity 	market-making 	on 	the
+exchange
+Key 	design:
+• 	The 	team 	and 	operational 	tokens 	will 	be 	released 	linearly 	over 	36 	months, 	with 	no 	one-
+time 	unlocking 	"dump 	window"
+• 	There 	is 	no 	pre-mining, 	no 	ICO, 	no 	private 	placement, 	and 	100% 	of 	the 	tokens 	enter
+circulation 	through 	the 	ecosystem 	output 	or 	compliance 	channels
+3.4 	Output 	Mechanism: 	18 	Period 	Linear 	Decay
+The 	LIM 	of 	the 	ecosystem 	reward 	is 	divided 	into 	18 	output 	periods, 	with 	a 	base 	output 	of 	50
+million 	LIM 	per 	period. 	When 	the 	cumulative 	output 	of 	the 	ecosystem 	section 	reaches 	50
+million 	LIM, 	it 	will 	automatically 	jump 	to 	the 	next 	period. 	The 	unit 	output 	of 	each 	period 	will
+decrease 	by 	5%. 	After 	all 	18 	periods 	are 	completed, 	the 	ecosystem 	reward 	tokens 	will
+permanently 	cease 	new 	output.
+3.4.1 	Mathematical 	Model
+Attenuation 	coefficient: 	kn=(1-5%)n-1
+where 	n 	is 	the 	nth 	period, 	1 	≤ 	n 	≤ 	18.
+Period 	1 	2 	3 	4 	5 	6
+Output
+coefficient
+N
+1.0000 	0.9500 	0.9025 	0.8574 	0.8145 	0.7738
+Period 	7 	8 	9 	10 	11 	12
+Output
+coefficient
+N
+0.7351 	0.6983 	0.6634 	0.6302 	0.5987 	0.5688
+Period 	13 	14 	15 	16 	17 	18
+Output
+coefficient
+N
+0.5404 	0.5133 	0.4877 	0.4633 	0.4401 	0.4181
+
+-- 19 of 41 --
+
+3.4.3 	Coin 	production 	rules
+Customer 	engagement 	Liminal 	Pool's 	escrow 	protocol 	mines 	1N 	LIM 	for 	every 	1 	USDT
+earned. 	The 	coin 	production 	rules 	are 	valid 	for 	18 	cycles, 	but 	the 	N 	of 	each 	cycle 	is
+constrained 	by 	the 	decay 	model. 	When 	the 	LIM 	produced 	in 	a 	cycle 	reaches 	the 	upper 	limit,
+the 	coin 	production 	efficiency 	of 	that 	cycle 	will 	be 	dynamically 	adjusted 	according 	to 	the
+actual 	TVL. 	Details 	See: 	Appendix 	B
+3.5 	VIP 	Level 	System
+The 	VIP 	level 	system 	is 	the 	core 	carrier 	of 	the 	Liminal 	contribution 	proof 	mechanism. 	The
+user's 	level 	is 	determined 	by 	their 	contribution 	to 	the 	Liminal 	ecosystem. 	The 	higher 	the
+contribution, 	the 	higher 	the 	level, 	and 	the 	more 	community 	incentives 	they 	can 	enjoy.
+3.5.1 	Levels 	and 	Rights
+VIP 	Level 	N1 	N2 	N3 	N4 	N5 	N6 	N7 	N8 	N9 	N10
+Community 	profit
+sharing
+10% 	20% 	30% 	40% 	50% 	60% 	65% 	70% 	75% 	80%
+Extra 	allocation
+of 	dividend 	pool
+— 	— 	7% 	7% 	7% 	7% 	7% 	7% 	7% 	7%
+3.5.2 	Level 	Privilege 	Explanation
+• 	Community 	revenue 	dividends: 	The 	percentage 	of 	dividends 	obtained 	from 	the 	hosting
+revenue 	generated 	by 	the 	subordinate 	network 	invited 	by 	oneself;
+• 	Bonus 	Pool 	Extra 	Allocation: 	N3 	and 	higher 	levels 	can 	receive 	an 	additional 	56% 	of 	the
+bonus 	pool 	every 	week
+• 	Lateral 	and 	exceeding 	rewards: 	When 	a 	subordinate 	reaches 	the 	same 	level 	or 	exceeds 	it,
+they 	can 	still 	receive 	a 	10% 	lateral 	reward;
+• 	Transition 	Consumption: 	Each 	upgrade 	requires 	the 	destruction 	of 	a 	corresponding
+value 	of 	LIM. 	The 	higher 	the 	level, 	the 	greater 	the 	amount 	of 	LIM 	to 	be 	destroyed. 	See 	3.7.
+The 	VIP 	level 	system 	is 	a 	proof 	of 	contribution: 	the 	more 	you 	stake 	in 	the 	ecosystem 	and 	the
+more 	addresses 	you 	promote, 	the 	higher 	the 	distribution 	of 	rights 	you 	will 	receive. 	The
+specific 	contribution 	mechanism 	is 	referenced 	in 	the 	business 	plan. 	See 	Appendix 	C1
+
+3.7 	Triple 	deflation 	mechanism
+The 	deflation 	of 	LIM 	comes 	from 	two 	independent 	and 	overlapping 	paths:
+3.7.1 	Upgrade 	and 	Destroy
+For 	each 	VIP 	level 	upgrade, 	users 	need 	to 	destroy 	an 	amount 	of 	LIM 	equivalent 	to 	the 	value
+of 	USDT. 	The 	higher 	the 	level, 	the 	larger 	the 	amount 	of 	LIM 	to 	be 	destroyed:
+Level 	N
+1
+N
+2
+N3 	N4 	N5 	N6 	N7 	N8 	N9 	N10
+Destruction 	of
+USDT/LIM
+20 	50 	10
+0
+20
+0
+50
+0
+1,20
+0
+2,50
+0
+5,00
+0
+15,00
+0
+30,00
+0
+The 	essence 	of 	the 	upgrade 	and 	destruction 	is 	the 	on-chain 	proof 	of 	the 	user's 	long-term
+commitment 	to 	the 	ecosystem. 	Each 	destruction 	reduces 	the 	market 	circulation 	and 	provides
+positive 	value 	support 	to 	all 	LIM 	holders.
+3.7.2 	Destruction 	of 	handling 	fees
+The 	fee 	structure 	for 	cash 	withdrawal 	is 	as 	follows:
+• 	5% 	of 	USDT 	is 	injected 	into 	the 	dividend 	pool 	for 	community 	incentives
+• 	5% 	LIM 	will 	be 	permanently 	destroyed 	and 	sent 	directly 	to 	the 	black 	hole 	address.
+The 	address 	of 	the 	black 	hole 	is 	an 	address 	that 	is 	not 	held 	by 	anyone 	and 	can 	only 	receive
+records 	that 	cannot 	be 	transferred. 	All 	records 	of 	destruction 	can 	be 	checked 	on 	the 	chain, 	and
+they 	are 	irreversible 	and 	cannot 	be 	tampered 	with.
+3.7.3 	Accumulation 	of 	deflationary 	effects
+Upgraded 	destruction 	and 	handling 	fee 	destruction 	operate 	concurrently, 	with 	an 	18-cycle
+yield 	decay, 	forming 	a 	triple 	deflationary 	pressure:
+• 	Supply 	side: 	The 	number 	of 	newly 	produced 	LIMs 	decreases 	by 	5% 	per 	cycle
+
+-- 22 of 41 --
+
+• 	Circulation 	end: 	LIM 	is 	continuously 	removed 	from 	circulation 	due 	to 	upgrades 	and
+handling 	fees
+• 	Demand 	side: 	The 	use 	of 	the 	ecosystem, 	VIP 	upgrades, 	and 	node 	subscriptions 	continue
+to 	create 	new 	demand 	for 	LIM.
+This 	design 	makes 	LIM 	economically 	structurally 	scarce, 	with 	its 	value 	supported 	by 	the 	real
+demand 	of 	the 	ecosystem's 	operation, 	rather 	than 	external 	speculative 	sentiment.
+3.8 	Income 	Sources 	and 	Distribution 	Mechanism
+3.8.1 	Revenue 	Sources 	and 	Incentive 	Mechanism
+The 	daily 	USDT 	income 	that 	users 	receive 	from 	Liminal 	Pool 	consists 	of 	two 	parts:
+1. 	Real 	protocol 	income: 	privacy 	transaction 	fees 	(Exchange 	2%, 	exchange 	code
+redemption 	fee, 	Catbox 	network 	fee) 	and 	cross-chain 	routing 	fee.
+2. 	LIM 	Token 	Liquidity 	Subsidy 	(Early): 	To 	incentivize 	cold 	start, 	the 	protocol 	converts 	a
+portion 	of 	the 	newly 	produced 	LIM 	into 	USDT 	in 	the 	secondary 	market 	and 	injects 	the
+proceeds 	into 	the 	revenue 	pool. 	The 	proportion 	of 	this 	subsidy 	will 	gradually 	decrease 	as 	the
+TVL 	increases 	and 	the 	fee 	income 	increases, 	and 	will 	eventually 	return 	to 	zero 	after 	the 	end 	of
+the 	18-cycle 	decay 	model.
+3.8.2 	Income 	Distribution
+All 	income 	is 	allocated 	to 	the 	following 	purposes 	according 	to 	a 	predetermined 	ratio:
+• 	User 	escrow 	income: 	USDT 	+ 	LIM 	will 	be 	settled 	daily 	to 	the 	escrow 	user
+• 	VIP 	dividend 	pool: 	The 	source 	of 	dividend 	pool 	funds 	shared 	by 	N3 	and 	above 	levels;
+• 	Node 	rewards: 	invitation 	rewards 	and 	LIM 	linear 	release;
+• 	Ecosystem 	operation: 	technical 	maintenance, 	marketing 	activities, 	community
+incentives;
+• 	Protocol 	Treasury: 	used 	for 	liquidity 	support, 	security 	audit, 	and 	emergency 	reserve.
+3.8.3 	Economic 	Model 	and 	Profit 	Planning
+The 	economic 	model 	of 	Liminal 	forms 	a 	self-reinforcing 	loop:
+
+-- 23 of 41 --
+
+In 	this 	economic 	flywheel, 	each 	link 	provides 	impetus 	for 	the 	next, 	forming 	a 	positive
+feedback 	loop.
+Based 	on 	this 	model, 	a 	corresponding 	profit 	plan 	has 	been 	formulated:
+Short 	term 	(0-12 	months): 	Rely 	on 	early 	ecosystem 	investment 	and 	platform 	fees 	to 	achieve
+cash 	flow 	balance;
+Mid-term 	(12-24 	months): 	User 	and 	lock-up 	scale 	continue 	to 	increase, 	fee 	income 	steadily
+rises, 	and 	the 	ecosystem 	forms 	a 	positive 	cycle
+Long-term 	(24 	months): 	Landing 	institutions 	will 	customize 	their 	privacy 	business 	and 	rely
+on 	diversified 	income 	to 	achieve 	long-term 	and 	stable 	operation.
+
+-- 24 of 41 --
+
+Chapter 	4: 	Development 	Planning 	and 	Roadmap
+4.1 	Development 	Overview: 	Three-Stage 	Evolution 	Path
+The 	development 	plan 	of 	Liminal 	Network 	is 	divided 	into 	three 	phases:
+Stage 	Time
+span
+Strategic
+focus
+Key 	milestones
+The 	first
+stage
+From 	0 	to
+12 	months
+Launching 	a
+privacy
+ecosystem
+Cold 	start, 	full 	implementation 	of 	the 	node 	&
+VIP 	system, 	and 	the 	launch 	of 	the 	LIM 	exchange
+The
+second
+stage
+12-24
+months
+The
+expansion 	of
+the 	privacy
+ecosystem
+Technology 	upgrade, 	multi-chain 	support, 	and
+TVL 	exceeding 	$500 	million
+The
+third
+stage
+24–36
+months
+The 	privacy
+ecosystem 	is
+mature
+DAO 	launch, 	cross-chain 	privacy 	protocol, 	and
+TVL 	exceeding 	$2 	billion
+The 	design 	logic 	of 	this 	evolutionary 	path 	is 	to 	first 	build 	a 	core 	privacy 	infrastructure, 	then
+horizontally 	expand 	to 	cover 	more 	chains 	and 	scenarios, 	and 	finally 	achieve 	decentralized
+governance 	and 	ecosystem 	autonomy.
+4.2 	Phase 	1 	(0–12 	months): 	Launch 	period 	of 	the 	privacy
+ecosystem
+The 	core 	goal 	of 	the 	first 	phase 	is 	to 	complete 	the 	cold 	start 	of 	the 	Liminal 	network, 	establish
+an 	initial 	user 	base 	and 	liquidity 	pool, 	and 	verify 	the 	product-market 	fit 	(Product-Market 	Fit).
+4.2.1 	Product 	Construction
+• 	Launch 	of 	Liminal 	Portal: 	Implementation 	of 	core 	functions 	such 	as 	instant 	privacy
+exchange, 	encrypted 	exchange 	code, 	and 	Catbox 	password 	red 	envelopes;
+• 	Liminal 	Pool 	Launch: 	Open 	multi-period 	USDT 	custody;
+• 	Complete 	the 	recruitment 	of 	 	and 	establish 	a 	complete 	set 	of 	rules 	for
+VIP 	members
+• 	Multi-chain 	support: 	Supporting 	Ethereum, 	BSC, 	and 	TRON 	as 	the 	first 	batch 	of
+mainstream 	public 	chains, 	achieving 	cross-chain 	anonymous 	transfers.
+4.2.2 	Market 	and 	Users
+
+-- 25 of 41 --
+
+• 	After 	completing 	the 	cold 	start, 	the 	number 	of 	registered 	users 	on 	the 	platform 	exceeded
+100,000
+• 	The 	total 	value 	of 	the 	ecosystem's 	staking 	pool 	(TVL) 	has 	reached 	$100 	million
+• 	Node 	Recruitment 	and 	Implementation
+4.2.3 	Compliance 	and 	Governance
+• 	The 	Liminal 	Nexus 	Foundation 	has 	completed 	its 	registration 	in 	the 	United 	States
+• 	MSB 	license 	officially 	approved;
+• 	The 	Hong 	Kong 	TCSP 	license 	has 	been 	approved;
+• 	Establish 	an 	Anti-Money 	Laundering 	and 	Compliance 	review 	framework.
+4.2.4 	Tokens 	and 	Economy
+• 	LIM 	has 	completed 	the 	first 	round 	of 	listing 	on 	exchanges 	(2-3 	first-tier 	exchanges);
+• 	Start 	the 	18-cycle 	decay 	model;
+• 	Upgraded 	destruction 	and 	handling 	fee 	destruction 	mechanisms 	have 	been 	launched.
+4.2.5 	Strategic 	Significance
+The 	core 	result 	of 	the 	first 	phase 	is 	not 	a 	single 	technology 	or 	user 	number, 	but 	the 	completion
+of 	verification 	from 	0 	to 	1: 	verifying 	the 	technical 	feasibility 	of 	the 	privacy 	pool, 	verifying 	the
+sustainability 	of 	the 	dual 	token 	economic 	model, 	and 	verifying 	the 	market 	acceptance 	of 	the
+compliance 	privacy 	path. 	The 	success 	of 	this 	phase 	will 	lay 	a 	solid 	foundation 	for 	subsequent
+expansion.
+4.3 	Phase 	2 	(12-24 	months): 	The 	expansion 	period 	of 	the
+privacy 	ecosystem
+The 	core 	goal 	of 	the 	second 	phase 	is 	to 	achieve 	large-scale 	growth 	by 	expanding 	Liminal
+from 	a 	single 	network 	to 	a 	multi-chain 	privacy 	infrastructure, 	promoting 	a 	dual 	explosion 	of
+users 	and 	assets.
+4.3.1 	Technology 	Upgrade
+• 	Optimize 	the 	underlying 	architecture 	to 	increase 	the 	system 	TPS 	to 	2000+ 	and
+significantly 	reduce 	the 	on-chain 	transaction 	fees
+• 	The 	multi-chain 	ecosystem 	is 	officially 	open, 	covering 	more 	mainstream 	public 	chains
+such 	as 	Solana, 	Avalanche, 	and 	Polygon, 	and 	achieving 	cross-chain 	privacy 	pool
+interoperability
+• 	Privacy 	technology 	iteration: 	Introduce 	more 	efficient 	zero-knowledge 	proof 	schemes
+(such 	as 	Plonk 	and 	Halo 	2) 	to 	reduce 	proof 	generation 	time 	and 	gas 	consumption
+
+-- 26 of 41 --
+
+• 	Mobile 	end 	support: 	Launch 	the 	Liminal 	mobile 	end 	App 	to 	lower 	the 	user 	access
+threshold.
+4.3.2 	Product 	Expansion
+• 	Privacy 	stablecoin 	exchange: 	Support 	anonymous 	exchange 	between 	stablecoins 	such 	as
+USDT, 	USDC, 	and 	DAI;
+• 	Privacy 	wealth 	management 	portfolio: 	Launching 	multi-strategy 	privacy 	wealth
+management 	pools 	(such 	as 	Fixed 	Income, 	Floating 	Income, 	and 	Structured 	Products);
+• 	NFT 	Privacy 	Module: 	Supports 	anonymous 	holding, 	anonymous 	transfer, 	and
+fragmentation 	of 	NFT 	transactions;
+• 	Developer 	SDK 	preview 	version: 	Open 	privacy 	pool 	call 	interface 	for 	third-party
+DApps, 	allowing 	external 	projects 	to 	integrate 	with 	Liminal's 	privacy 	capabilities.
+4.3.3 	Market 	and 	Users
+• 	The 	number 	of 	registered 	users 	on 	the 	platform 	has 	exceeded 	500,000
+• 	The 	total 	value 	of 	the 	ecosystem's 	staking 	pool 	(TVL) 	has 	exceeded 	$500 	million
+• 	LIM 	has 	landed 	on 	5-8 	global 	first-tier 	exchanges, 	including 	Binance, 	OKX, 	Bybit, 	etc
+• 	LIM's 	market 	value 	has 	entered 	the 	top 	200 	of 	the 	global 	cryptocurrency 	market
+• 	The 	daily 	trading 	volume 	of 	the 	privacy 	pool 	exceeded 	50 	million 	US 	dollars.
+4.3.4 	Compliance 	and 	Governance
+• 	Launch 	the 	Compliance 	Privacy 	Alliance 	and 	establish 	cooperative 	relationships 	with
+several 	compliance 	exchanges, 	audit 	institutions, 	and 	regulatory 	technology 	companies
+• 	Launch 	the 	"Privacy 	Proof" 	module: 	Users 	can 	prove 	the 	legitimacy 	of 	their 	fund
+sources 	to 	third 	parties 	(exchanges, 	regulators) 	without 	exposing 	the 	details 	of 	their
+transactions
+• 	Initiate 	community 	discussion 	and 	testing 	of 	the 	DAO 	governance 	framework.
+4.3.5 	Strategic 	Significance
+The 	core 	achievement 	of 	the 	second 	phase 	is 	the 	leap 	from 	"usable" 	to 	"large-scale 	use".
+Multi-chain 	support 	allows 	Liminal 	to 	cover 	a 	wider 	client 	base, 	privacy 	finance 	and 	NFT
+modules 	expand 	the 	application 	scenarios 	of 	the 	ecosystem, 	and 	the 	developer 	SDK 	lays 	the
+groundwork 	for 	the 	explosion 	of 	the 	ecosystem 	in 	the 	third 	phase.
+4.4 	Phase 	III 	(24-36 	months): 	Maturity 	period 	of 	the 	privacy
+ecosystem
+The 	core 	goal 	of 	the 	third 	phase 	is 	to 	achieve 	the 	fully 	decentralized 	governance 	and 	protocol-
+based 	infrastructure 	of 	Liminal, 	positioning 	it 	as 	the 	base 	layer 	for 	Web3 	privacy 	computing.
+
+-- 27 of 41 --
+
+4.4.1 	Technical 	Level
+• 	The 	DAO 	governance 	system 	has 	been 	officially 	launched, 	enabling 	full 	community
+autonomy 	and 	returning 	the 	core 	governance 	and 	decision-making 	power 	to 	the 	community
+• 	Cross-chain 	privacy 	protocol: 	Connecting 	privacy 	pools 	between 	different 	public 	chains
+to 	achieve 	cross-chain 	anonymous 	liquidity 	sharing;
+• 	Integration 	of 	Zero-Knowledge 	Proof 	Virtual 	Machine 	(zkVM) 	to 	support 	more
+complex 	privacy 	computing 	scenarios, 	such 	as 	privacy 	voting, 	privacy 	auctioning, 	and
+privacy 	data 	aggregation;
+• 	Layer 	2 	privacy 	network: 	Construct 	an 	independent 	privacy 	Layer 	2 	based 	on 	existing
+privacy 	pools, 	further 	reducing 	gas 	costs 	and 	increasing 	TPS.
+4.4.2 	Product 	Layout
+• 	Open 	SDK 	official 	version: 	Any 	third-party 	DApp 	can 	access 	the 	Liminal 	privacy 	pool
+with 	one 	click 	to 	gain 	native 	privacy 	capabilities
+• 	Privacy 	DeFi 	Matrix: 	It 	includes 	a 	variety 	of 	product 	lines 	such 	as 	privacy 	lending,
+privacy 	derivatives, 	and 	privacy 	insurance
+• 	Enterprise-level 	privacy 	solutions: 	Provide 	customized 	on-chain 	privacy 	protection
+services 	(such 	as 	treasury 	management 	and 	Supply 	Chain 	Finance 	privacy) 	for 	institutional
+customers
+• 	Privacy 	Identity 	Protocol: 	A 	decentralized 	identity 	(DID) 	system 	based 	on 	zero-
+knowledge 	proofs, 	allowing 	users 	to 	complete 	KYC 	compliance 	without 	exposing 	their 	full
+identities.
+4.4.3 	Operational 	growth
+• 	The 	cumulative 	number 	of 	registered 	users 	on 	the 	platform 	has 	exceeded 	2 	million;
+• 	The 	total 	volume 	of 	funds 	pledged 	on 	the 	platform 	(TVL) 	has 	exceeded 	$2 	billion
+• 	The 	daily 	trading 	volume 	of 	the 	privacy 	pool 	exceeded 	300 	million 	US 	dollars;
+• 	Support 	15+ 	mainstream 	public 	chains, 	covering 	more 	than 	80% 	of 	the 	DeFi 	client 	base.
+4.4.4 	Market 	Position
+• 	The 	market 	value 	of 	LIM's 	native 	token 	has 	ranked 	among 	the 	top 	100 	in 	the 	global
+cryptocurrency 	rankings
+• 	Liminal 	has 	become 	the 	undisputed 	leader 	in 	the 	privacy 	finance 	track
+• 	The 	annualized 	revenue 	from 	the 	agreement 	(fees 	+ 	management 	share) 	exceeded 	$100
+million, 	with 	more 	than 	50% 	allocated 	to 	the 	community 	treasury 	and 	DAO 	governance 	pool.
+4.4.5 	Compliance 	and 	Governance
+• 	DAO 	fully 	takes 	over 	the 	governance 	of 	the 	agreement, 	and 	the 	Liminal 	Nexus
+
+-- 28 of 41 --
+
+Foundation 	gradually 	withdraws 	from 	its 	operational 	role 	and 	becomes 	a 	technical 	advisor;
+• 	Implement 	the 	"regulatory 	node" 	mechanism: 	compliance 	regulators 	can 	apply 	to 	access
+read-only 	nodes 	to 	monitor 	illegal 	financial 	flows 	while 	protecting 	user 	privacy;
+• 	Privacy 	Financial 	Compliance 	Standards 	Output: 	Participating 	in 	the 	development 	of
+industry-level 	privacy 	DeFi 	compliance 	guidelines, 	promoting 	privacy 	finance 	from 	a
+"regulatory 	gray 	zone" 	to 	a 	"recognized 	infrastructure".
+4.4.6 	Strategic 	Significance
+The 	core 	result 	of 	the 	third 	phase 	is 	the 	upgrade 	from 	"a 	project" 	to 	"an 	ecosystem". 	When
+Liminal's 	privacy 	capabilities 	become 	the 	infrastructure 	of 	Web3 	rather 	than 	a 	single
+application, 	its 	Network 	Effect 	will 	grow 	exponentially. 	The 	full 	launch 	of 	the 	DAO 	marks
+the 	completion 	of 	Liminal's 	evolution 	from 	"centralized 	startup" 	to 	"decentralized 	autonomy".
+4.5 	Long-term 	Vision: 	Infrastructure 	Layer 	for 	Privacy 	3.0
+Going 	beyond 	the 	three-stage 	roadmap, 	the 	long-term 	vision 	of 	Liminal 	Network 	is 	to 	become
+the 	infrastructure 	layer 	for 	Web3 	privacy 	computing.
+Privacy 	1.0 	(Anonymity) 	- 	Privacy 	coins 	like 	Monero 	make 	anonymous 	transfers 	possible.
+Privacy 	2.0 	(Pricing) 	- 	Upgrading 	privacy 	from 	a 	stealth 	tool 	to 	an 	asset 	that 	can 	generate
+revenue.
+Privacy 	3.0 	(Protocolization) 	- 	Privacy 	is 	no 	longer 	an 	add-on 	feature 	of 	a 	single 	application,
+but 	becomes 	the 	underlying 	liquidity 	protocol 	of 	the 	entire 	Web3 	network. 	Any 	DApp, 	any
+chain, 	and 	any 	user 	can 	access 	Liminal's 	privacy 	pool 	and 	use 	anonymity 	as 	an 	infrastructure
+call.
+From 	stealth, 	to 	pricing, 	to 	protocolization 	- 	this 	is 	the 	three-fold 	leap 	of 	privacy 	from 	a
+function 	to 	an 	ecosystem. 	Liminal 	is 	standing 	at 	the 	starting 	point 	of 	Privacy 	3.0, 	building 	an
+open, 	permissionless, 	and 	compliance-friendly 	privacy 	financial 	network.
+
+-- 29 of 41 --
+
+Chapter 	5: 	Risk 	Warnings 	and 	Disclaimers
+5.1 	Overview
+Liminal 	Network 	is 	a 	decentralized 	privacy 	financial 	infrastructure 	designed 	to 	provide 	users
+with 	whole-link 	anonymous 	transactions 	and 	stable 	wealth 	management 	services. 	Although
+the 	project 	has 	been 	rigorously 	designed 	in 	terms 	of 	technology, 	economic 	model, 	and
+compliance, 	participating 	in 	the 	Liminal 	ecosystem 	still 	involves 	various 	risks. 	This 	chapter
+aims 	to 	clearly 	alert 	all 	potential 	users, 	investors, 	node 	holders, 	and 	other 	ecosystem
+participants 	of 	the 	relevant 	risks 	and 	declare 	the 	corresponding 	responsibility 	boundaries.
+Important 	note: 	The 	content 	of 	this 	chapter 	does 	not 	constitute 	legal 	or 	investment 	advice.
+Before 	participating 	in 	the 	Liminal 	ecosystem, 	please 	conduct 	your 	own 	thorough 	research
+and 	make 	decisions 	based 	on 	your 	own 	risk 	tolerance.
+5.2 	Technical 	Risk
+5.2.1 	Smart 	Contract 	Risks
+The 	core 	functions 	of 	Liminal 	(privacy 	pool, 	hosting, 	redemption 	code, 	node 	mechanism, 	etc.)
+are 	all 	implemented 	through 	smart 	contracts. 	Although 	the 	contract 	code 	has 	been 	open-
+sourced 	and 	passed 	third-party 	security 	audits, 	there 	may 	still 	be 	unknown 	vulnerabilities 	or
+logical 	flaws 	in 	the 	smart 	contracts. 	If 	a 	vulnerability 	is 	exploited, 	it 	may 	result 	in 	partial 	or
+total 	loss 	of 	user 	assets.
+Mitigation 	measures: 	Liminal 	adopts 	a 	multi-layer 	contract 	architecture, 	with 	the 	core
+contract 	retaining 	an 	emergency 	pause 	mechanism 	(controlled 	by 	a 	multi-signature 	wallet 	and
+gradually 	transitioning 	to 	DAO 	governance); 	continuously 	cooperating 	with 	multiple 	audit
+firms 	for 	regular 	security 	audits; 	setting 	up 	a 	vulnerability 	bounty 	program 	to 	incentivize
+white 	hat 	hackers 	to 	discover 	and 	report 	vulnerabilities.
+5.2.2 	Limitations 	of 	Privacy 	Technology
+The 	technologies 	used 	by 	Liminal, 	such 	as 	ring 	signatures, 	stealth 	addresses, 	RingCT, 	and
+zero-knowledge 	proofs, 	have 	been 	extensively 	validated, 	but 	theoretically 	there 	is 	still 	the
+possibility 	of 	being 	breached 	by 	new 	cryptographic 	analysis 	attacks. 	In 	addition, 	network-
+layer 	privacy 	technologies 	such 	as 	Dandelion++ 	cannot 	completely 	eliminate 	traffic 	analysis
+attacks 	in 	extreme 	cases.
+Mitigation 	measures: 	Liminal's 	technical 	architecture 	is 	designed 	to 	be 	upgradable. 	If 	there 	is
+a 	major 	breakthrough 	in 	cryptography, 	it 	will 	promptly 	migrate 	to 	a 	more 	secure 	privacy
+solution. 	The 	larger 	the 	privacy 	pool, 	the 	stronger 	the 	anonymity. 	Encouraging 	more 	liquidity
+injection 	can 	improve 	the 	overall 	level 	of 	privacy 	protection.
+5.2.3 	Risks 	of 	the 	underlying 	public 	chain
+Liminal 	is 	currently 	deployed 	on 	public 	chains 	such 	as 	Ethereum, 	BSC, 	and 	TRON, 	and 	will
+
+-- 30 of 41 --
+
+be 	expanded 	to 	more 	chains 	in 	the 	future. 	These 	public 	chains 	may 	face 	risks 	such 	as 	network
+congestion, 	forks, 	51% 	attacks, 	and 	malicious 	validators, 	which 	may 	indirectly 	affect 	the
+normal 	operation 	of 	Liminal.
+Mitigation 	measures: 	Liminal 	adopts 	a 	multi-chain 	deployment 	strategy, 	and 	the 	failure 	of 	a
+single 	public 	chain 	will 	not 	lead 	to 	the 	paralysis 	of 	the 	entire 	ecosystem; 	critical 	operations
+(such 	as 	hosting 	settlements) 	have 	anti-forking 	mechanisms 	and 	timeout 	retry 	logic.
+5.3 	Economic 	Model 	Risk
+5.3.1 	Risk 	of 	fluctuation 	in 	the 	price 	of 	LIM 	tokens
+The 	value 	of 	LIM 	is 	determined 	by 	market 	supply 	and 	demand. 	The 	price 	may 	fluctuate
+significantly 	due 	to 	factors 	such 	as 	market 	sentiment, 	macroeconomic 	environment,
+competition 	landscape, 	and 	exchange 	liquidity. 	Early 	participants 	may 	face 	the 	risk 	of 	a
+significant 	drop 	in 	the 	token 	price.
+Mitigation 	measures: 	LIM's 	economic 	model 	has 	a 	built-in 	deflation 	mechanism 	(upgrade
+destruction, 	fee 	destruction, 	and 	production 	decay). 	The 	long-term 	value 	is 	anchored 	to 	the
+ecosystem's 	usage 	demand, 	not 	pure 	speculation. 	The 	team's 	tokens 	are 	released 	linearly 	over
+36 	months 	to 	avoid 	centralized 	dumping. 	Participants 	are 	advised 	to 	allocate 	their 	assets
+reasonably 	based 	on 	their 	risk 	tolerance 	and 	not 	to 	invest 	more 	than 	their 	acceptable 	loss
+range. 	LIM 	is 	priced 	based 	on 	the 	Swap 	real-time 	market, 	and 	VIP 	upgrade 	destruction
+is 	converted 	into 	tokens 	at 	the 	real-time 	market 	price. 	Significant 	price 	fluctuations 	will
+directly 	change 	the 	number 	of 	LIM 	required 	for 	upgrades, 	disrupting 	the 	market
+deflation 	rhythm.
+5.3.2 	Uncertainty 	of 	management 	income
+The 	managed 	income 	(USDT 	daily 	income) 	is 	based 	on 	the 	liquidity 	utilization 	rate 	of 	the
+privacy 	pool 	and 	the 	protocol 	income. 	If 	the 	utilization 	rate 	of 	the 	privacy 	pool 	decreases
+significantly, 	the 	actual 	income 	may 	be 	lower 	than 	the 	expected 	income 	rate 	disclosed 	in 	the
+white 	paper. 	Historical 	income 	does 	not 	represent 	future 	performance.
+Mitigation 	measures: 	Liminal 	uses 	a 	multi-cycle 	hosting 	design 	to 	lock 	in 	users' 	long-term
+liquidity 	commitments 	and 	reduce 	the 	impact 	of 	short-term 	fluctuations 	on 	earnings; 	the
+protocol 	has 	an 	earnings 	smoothing 	mechanism 	that 	uses 	reserve 	funds 	to 	maintain 	the 	base
+earnings 	when 	the 	market 	active 	level 	is 	low. 	The 	early 	earnings 	of 	the 	platform 	include
+LIM 	cycle 	subsidies 	and 	gradually 	decrease 	with 	the 	attenuation 	of 	the 	18th 	period. 	At
+the 	same 	time, 	there 	is 	a 	rule 	that 	the 	cumulative 	withdrawal 	of 	a 	single 	address 	should
+not 	exceed 	3 	times 	the 	principal. 	Changes 	in 	the 	withdrawal 	rhythm 	of 	users 	will 	affect
+the 	volume 	of 	the 	fund 	pool 	and 	the 	dividend 	base.
+5.3.3 	Risk 	of 	selling 	off 	node 	rewards
+Of 	the 	LIM 	rewards 	received 	by 	node 	holders, 	80% 	are 	released 	linearly 	over 	180 	days.
+Although 	this 	design 	is 	intended 	to 	disperse 	selling 	pressure, 	it 	may 	still 	cause 	short-term
+impact 	on 	the 	LIM 	price 	if 	a 	large 	number 	of 	nodes 	sell 	at 	the 	same 	time.
+
+-- 31 of 41 --
+
+Mitigation 	measures: 	The 	total 	number 	of 	nodes 	is 	only 	1000, 	and 	the 	total 	amount 	of 	LIM
+unlocked 	daily 	is 	limited 	(approximately 	44,000), 	which 	can 	control 	the 	impact 	on 	market
+depth; 	most 	node 	holders 	are 	long-term 	consensus 	participants 	with 	low 	incentives 	to 	sell.
+Node 	rewards 	follow 	a 	20% 	immediate 	credit, 	and 	the 	remaining 	80% 	is 	released
+linearly 	over 	180 	days, 	releasing 	batches 	to 	smooth 	the 	selling 	pressure, 	but
+concentrated 	large-scale 	liquidation 	will 	still 	cause 	short-term 	price 	fluctuations.
+5.4 	Regulatory 	and 	Compliance 	Risks
+5.4.1 	Regulatory 	Policy 	Uncertainty
+Globally, 	the 	regulatory 	policies 	for 	privacy-enhancing 	technologies 	(PET) 	and
+cryptocurrencies 	are 	still 	evolving 	rapidly. 	Although 	Liminal 	has 	obtained 	a 	US 	MSB 	license
+and 	a 	Hong 	Kong 	TCSP 	license, 	it 	cannot 	guarantee 	that 	all 	future 	jurisdictions 	will 	be
+friendly 	to 	privacy 	DeFi. 	Some 	countries 	may 	introduce 	laws 	and 	regulations 	that 	restrict 	or
+prohibit 	privacy 	transactions, 	affecting 	Liminal's 	accessibility 	in 	those 	areas.
+Mitigation 	measures: 	Liminal 	adheres 	to 	the 	"programmable 	compliance" 	approach,
+implementing 	selective 	disclosure 	through 	zero-knowledge 	proofs 	to 	meet 	Anti-Money
+Laundering 	and 	Counter-Terrorism 	Financing 	requirements 	while 	protecting 	privacy;
+maintaining 	dialogue 	with 	regulators 	in 	multiple 	jurisdictions 	and 	actively 	participating 	in 	the
+development 	of 	industry 	compliance 	standards; 	reducing 	legal 	risk 	through 	measures 	such 	as
+geographical 	blocking 	if 	specific 	regional 	policies 	tighten.The 	rules 	for 	project 	upgrades,
+destruction, 	fee 	deductions, 	and 	dividend 	distribution 	are 	designed 	according 	to 	the
+compliance 	framework 	of 	the 	licensee, 	Liminal 	Nexus 	Foundation. 	If 	the 	local
+cryptocurrency 	taxation 	regulations 	are 	implemented, 	the 	taxation 	rules 	for 	dividends
+and 	withdrawals 	may 	be 	adjusted.
+5.4.2 	Tax 	Risk
+Different 	countries 	and 	regions 	have 	different 	tax 	treatments 	for 	behaviors 	such 	as
+cryptocurrency 	trading, 	pledged 	income, 	and 	token 	destruction. 	It 	is 	the 	user's 	responsibility
+to 	understand 	and 	comply 	with 	the 	tax 	reporting 	obligations 	of 	their 	jurisdiction.
+Mitigation 	measures: 	Liminal 	provides 	a 	complete 	export 	function 	for 	on-chain 	transaction
+records, 	making 	it 	easy 	for 	users 	to 	file 	tax 	returns; 	the 	white 	paper 	and 	official 	documents
+explicitly 	remind 	users 	to 	take 	responsibility 	for 	their 	own 	tax 	compliance.
+5.4.3 	Sanctions 	and 	the 	risk 	of 	asset 	freezes
+Although 	Liminal 	uses 	a 	decentralized 	architecture 	and 	cannot 	unilaterally 	freeze 	user 	assets,
+if 	an 	address 	is 	listed 	on 	sanction 	lists 	such 	as 	OFAC, 	compliance 	exchanges 	and 	node 	service
+providers 	that 	interact 	with 	this 	address 	may 	refuse 	to 	provide 	services. 	In 	extreme 	cases, 	the
+front-end 	interface 	of 	the 	protocol 	may 	be 	forced 	to 	block 	IP 	addresses 	from 	sanctioned
+regions.
+Mitigation 	measures: 	The 	Liminal 	Nexus 	Foundation, 	as 	the 	compliance 	entity, 	will 	strictly
+adhere 	to 	the 	sanction 	regulations; 	the 	protocol 	level 	will 	remain 	decentralized, 	and 	any 	user
+
+-- 32 of 41 --
+
+can 	access 	the 	privacy 	pool 	through 	a 	locally 	run 	node 	or 	a 	third-party 	front 	end. 	The
+platform 	withdrawals 	are 	charged 	separately 	in 	USDT 	and 	LIM 	(USDT 	5% 	goes 	to
+dividends, 	LIM 	5% 	is 	destroyed), 	with 	independent 	accounting 	of 	the 	two 	currencies.
+Restrictions 	on 	a 	single 	currency 	will 	not 	directly 	cause 	a 	complete 	halt 	of 	another 	type
+of 	asset.
+5.5 	Market 	and 	Competitive 	Risks
+5.5.1 	Intensified 	market 	competition
+The 	DeFi 	privacy 	track 	is 	still 	in 	its 	early 	stages, 	but 	there 	may 	be 	more 	competitors 	in 	the
+future, 	including 	upgraded 	versions 	of 	traditional 	privacy 	coins, 	Layer 	2 	native 	privacy
+solutions, 	and 	privacy 	plug-ins 	for 	large 	DeFi 	protocols. 	Competition 	may 	lead 	to 	user 	churn,
+a 	decrease 	in 	TVL, 	and 	a 	weakening 	of 	LIM 	demand.
+Mitigation 	measures: 	Liminal's 	first-mover 	advantage 	(MSB 	license, 	privacy 	pool 	size, 	node
+network) 	has 	built 	a 	high 	barrier 	to 	entry; 	continuous 	technological 	innovation 	and 	product
+iteration 	to 	maintain 	competitiveness; 	after 	opening 	the 	SDK, 	binding 	third-party 	DApps
+through 	the 	ecosystem 	to 	form 	a 	Network 	Effect.
+5.5.2 	Liquidity 	Risk
+In 	the 	early 	stages 	of 	LIM's 	launch, 	there 	may 	be 	limited 	liquidity 	on 	the 	exchange, 	and 	large
+trades 	may 	result 	in 	sharp 	price 	slippage. 	In 	extreme 	market 	conditions, 	the 	privacy 	pool 	may
+also 	face 	short-term 	liquidity 	exhaustion.
+Mitigation 	measures: 	Liminal 	has 	set 	aside 	a 	pool 	(2% 	LIM) 	for 	market 	making 	and 	has
+established 	cooperation 	with 	several 	market 	makers; 	it 	is 	recommended 	that 	users 	avoid 	large-
+scale 	concentrated 	transactions 	in 	the 	early 	stages 	of 	the 	launch, 	and 	batch 	operation 	can
+reduce 	the 	impact 	of 	slippage. 	The 	project 	pool 	2% 	LIM 	special 	project 	is 	used 	for
+secondary 	market 	making 	to 	alleviate 	the 	lack 	of 	depth 	in 	the 	early 	market, 	but 	there 	is
+still 	a 	risk 	of 	slippage 	in 	extreme 	market 	conditions.
+5.6 	Man-made 	and 	operational 	risks
+5.6.1 	Risk 	of 	loss 	or 	leakage 	of 	private 	keys
+The 	final 	control 	of 	the 	user's 	assets 	depends 	on 	their 	wallet 	private 	key 	or 	mnemonic 	phrase.
+Once 	the 	private 	key 	is 	lost, 	forgotten, 	or 	obtained 	by 	a 	third 	party, 	it 	will 	result 	in 	permanent
+loss 	of 	assets. 	Neither 	Liminal 	nor 	any 	third 	party 	can 	recover 	the 	private 	key.
+Mitigation 	measures: 	It 	is 	strongly 	recommended 	that 	users 	use 	hardware 	wallets 	to 	manage
+large 	amounts 	of 	assets; 	properly 	back 	up 	mnemonic 	phrases 	and 	store 	them 	offline 	in 	a 	safe
+place; 	do 	not 	disclose 	private 	keys 	or 	mnemonic 	phrases 	to 	anyone.
+5.6.2 	Risks 	of 	Phishing 	and 	Fraud
+
+-- 33 of 41 --
+
+Attackers 	may 	forge 	the 	official 	website, 	social 	media 	accounts, 	and 	customer 	service
+channels 	of 	Liminal 	to 	induce 	users 	to 	connect 	to 	malicious 	wallets 	or 	transfer 	money 	to
+fraudulent 	addresses. 	Liminal 	will 	not 	be 	held 	responsible 	for 	any 	asset 	losses 	caused 	by 	users
+trusting 	misinformation.
+Mitigation 	measures: 	Only 	obtain 	links 	through 	official 	channels 	(GitHub, 	Twitter, 	Telegram
+certified 	groups); 	official 	customer 	service 	will 	never 	proactively 	private 	chat 	users 	to 	ask 	for
+private 	keys 	or 	transfer; 	it 	is 	recommended 	that 	users 	install 	anti-phishing 	browser 	plug-ins.
+The 	project 	promotion 	mechanism 	is 	easily 	counterfeited 	by 	fraudsters, 	so 	it 	is 	necessary
+to 	verify 	the 	official 	channels 	before 	participating 	in 	customer 	engagement 	promotions.
+5.6.3 	Front-end 	interface 	attack 	risk
+The 	front-end 	interface 	of 	Liminal 	is 	hosted 	on 	decentralized 	storage 	(such 	as 	IPFS) 	and
+traditional 	CDNs, 	which 	may 	be 	subject 	to 	DNS 	hijacking 	or 	CDN 	poisoning, 	resulting 	in
+users 	interacting 	with 	forged 	contracts.
+Mitigation 	measures: 	Advanced 	users 	can 	interact 	with 	the 	privacy 	pool 	by 	directly 	calling 	the
+smart 	contract; 	the 	official 	provides 	multiple 	verification 	channels 	for 	the 	contract 	address
+(GitHub, 	Etherscan, 	multi-signature 	disclosure).
+5.7 	Disclaimer
+5.7.1 	does 	not 	constitute 	investment 	advice
+This 	white 	paper 	and 	all 	documents, 	announcements, 	and 	social 	media 	content 	released 	by
+Liminal 	do 	not 	constitute 	any 	form 	of 	legal, 	financial, 	or 	investment 	advice. 	Users 	should
+evaluate 	the 	project 	risks 	and 	make 	decisions 	based 	on 	their 	own 	circumstances.
+5.7.2 	No 	profit 	guarantee
+The 	managed 	yield, 	node 	rewards, 	and 	VIP 	dividends 	described 	in 	the 	white 	paper 	are 	all
+estimates 	based 	on 	the 	current 	economic 	model 	and 	do 	not 	constitute 	a 	commitment 	to 	future
+actual 	returns. 	Actual 	returns 	are 	influenced 	by 	multiple 	factors 	such 	as 	market 	conditions,
+protocol 	usage 	rate, 	and 	token 	price, 	and 	may 	be 	lower 	than 	expected.
+5.7.3 	Limitation 	of 	Liability
+To 	the 	maximum 	extent 	permitted 	by 	law, 	the 	Liminal 	Nexus 	Foundation, 	the 	Liminal 	core
+team, 	node 	operators, 	and 	any 	associated 	parties 	will 	not 	be 	liable 	for 	any 	direct 	or 	indirect
+losses 	resulting 	from 	the 	following 	reasons:
+• 	User's 	own 	operational 	errors 	(including 	but 	not 	limited 	to 	transfer 	address 	errors, 	loss
+of 	private 	keys);
+• 	Unknown 	vulnerabilities 	or 	hacker 	attacks 	on 	smart 	contracts;
+• 	Faults, 	forks, 	or 	attacks 	on 	the 	underlying 	public 	chain;
+• 	Access 	restrictions 	or 	asset 	disposal 	due 	to 	changes 	in 	regulatory 	policies;
+
+-- 34 of 41 --
+
+• 	Asset 	depreciation 	due 	to 	extreme 	market 	volatility;
+• 	Malfunction 	or 	malicious 	behavior 	of 	third-party 	services 	such 	as 	exchanges, 	wallets,
+and 	RPC 	nodes.
+5.7.4 	Participant 	Eligibility
+Residents 	of 	certain 	jurisdictions 	may 	be 	prohibited 	from 	participating 	in 	the 	Liminal
+ecosystem. 	It 	is 	the 	user's 	responsibility 	to 	ensure 	that 	their 	participation 	does 	not 	violate 	the
+laws 	of 	their 	location. 	Liminal 	reserves 	the 	right 	to 	restrict 	access 	to 	specific 	regions 	based 	on
+regulatory 	requirements.
+5.7.5 	White 	Paper 	Update
+This 	white 	paper 	may 	be 	revised 	based 	on 	project 	progress, 	technical 	iteration, 	or 	regulatory
+requirements. 	The 	latest 	version 	is 	subject 	to 	official 	release. 	Users 	should 	check 	for 	updates
+regularly.
+5.8 	Risk 	Disclosure 	Confirmation
+By 	using 	the 	Liminal 	network 	(including 	but 	not 	limited 	to 	accessing 	the 	official 	website,
+connecting 	wallets, 	depositing 	assets, 	participating 	in 	hosting, 	subscribing 	to 	nodes, 	and 	using
+private 	transfers), 	you 	have 	read, 	understood, 	and 	accepted 	all 	the 	risks 	and 	disclaimers
+described 	in 	this 	chapter. 	If 	you 	do 	not 	accept 	any 	of 	the 	terms, 	please 	stop 	using 	the 	Liminal
+network 	immediately.
+
+-- 35 of 41 --
+
+Appendix
+Appendix 	A: 	Glossary
+Term 	Definition
+Ring 	Signature 	A 	digital 	signature 	scheme 	where 	the 	signer 	can 	generate 	a
+signature 	on 	behalf 	of 	a 	"ring" 	that 	contains 	multiple 	public
+keys. 	The 	verifier 	cannot 	determine 	which 	member 	signed
+the 	signature, 	thus 	hiding 	the 	sender.
+Stealth 	Address 	A 	one-time 	random 	receiving 	address 	is 	generated 	for 	each
+transaction, 	which 	cannot 	be 	associated 	with 	the 	recipient's
+long-term 	public 	key, 	thus 	protecting 	the 	recipient's
+privacy.
+RingCT 	(Ring 	Confidential
+Transactions)
+Ring 	confidential 	transactions 	combine 	ring 	signatures 	and
+range 	proofs 	to 	hide 	the 	transaction 	amount 	while 	proving
+its 	legitimacy.
+"Zero-Knowledge 	Proof
+(ZKP)"
+A 	cryptographic 	method 	that 	allows 	the 	prover 	to 	prove 	the
+truth 	of 	a 	statement 	to 	the 	verifier 	without 	revealing 	any
+information 	other 	than 	the 	statement 	itself.
+Dandelion++ 	A 	network-layer 	privacy 	protocol 	that 	forwards 	transactions
+through 	a 	secret 	path 	and 	then 	broadcasts 	them 	to 	prevent
+attackers 	from 	analyzing 	and 	locating 	the 	IP 	address 	of 	the
+transaction 	initiator 	through 	the 	network.
+Substitutability
+(Fungibility)
+The 	property 	of 	a 	unit 	of 	an 	asset 	being 	completely
+equivalent 	and 	interchangeable 	with 	another 	unit. 	LIM 	has
+no 	concept 	of 	"stains", 	and 	all 	tokens 	are 	fully
+interchangeable.
+TVL 	(Total 	Value 	Locked) 	Locking 	in 	the 	total 	value 	refers 	to 	the 	total 	amount 	of
+assets 	pledged 	in 	the 	agreement, 	which 	is 	the 	core 	indicator
+to 	measure 	the 	scale 	of 	the 	DeFi 	agreement.
+MSB 	(Money 	Services
+Business)
+For 	money 	service 	businesses, 	a 	license 	regulated 	by 	the 	US
+FinCEN 	is 	required 	to 	legally 	conduct 	remittance 	and
+exchange 	services.
+TCSP 	(Trust 	or 	Company 	Trust 	or 	company 	service 	providers 	with 	a 	Hong 	Kong
+
+-- 36 of 41 --
+
+Service 	Provider) 	license 	are 	allowed 	to 	provide 	custody 	and 	company
+services.
+Proof 	of 	Contribution 	The 	core 	consensus 	mechanism 	of 	Liminal 	quantifies 	users'
+contributions 	(such 	as 	staking, 	inviting, 	and 	team 	building)
+into 	levels 	and 	profit 	weights.
+Black 	Hole 	Address 	No 	one 	holds 	the 	private 	key, 	and 	it 	can 	only 	be 	transferred
+to 	an 	address 	that 	cannot 	be 	transferred 	out 	for 	permanent
+destruction 	of 	the 	token.
+Privacy 	3.0 	Liminal 	is 	committed 	to 	building 	a 	vision 	of 	a 	privacy
+network 	that 	has 	undergone 	three 	transformations: 	from 	an
+anonymity 	tool 	to 	a 	priceable 	asset, 	and 	finally 	to 	a
+protocol-based 	infrastructure.
+Appendix 	B: 	Mathematical 	Formula 	for 	LIM 	Output 	and
+Attenuation
+B.1 	Basic 	Rules 	Explanation
+1. 	The 	total 	output 	of 	each 	cycle 	ecosystem 	is 	fixed 	at 	50,000,000 	LIM 	(the 	total 	amount 	is
+constant 	and 	does 	not 	decrease 	with 	the 	coefficient).
+2. 	The 	attenuation 	coefficient 	is 	only 	used 	for 	the 	unit 	profit-to-currency 	ratio: 	for 	every 	1
+USDT 	profit, 	the 	benchmark 	is 	1 	LIM, 	and 	the 	actual 	issuance 	is 	equal 	to..
+3. 	The 	coefficient 	does 	not 	change 	the 	total 	quota 	of 	the 	period. 	When 	the 	pool 	is 	full 	of 	50
+million 	LIM, 	it 	will 	automatically 	cut 	off 	the 	next 	period
+4. 	Only 	900 	million 	ecosystem 	rewards 	will 	participate 	in 	the 	conversion 	and 	depreciation,
+and 	the 	node/operation/team/bottom 	pool 	quota 	will 	not 	participate 	in 	the 	depreciation.
+B.2 	Period 	and 	Exchange 	Formula
+￮ 	Period 	total 	output: 	Fixed 	at 	50,000,000 	LIM 	per 	period
+￮ 	Single 	USDT 	corresponds 	to 	LIM:
+B.3 	Cumulative 	Ecosystem 	Output
+k 	= 	number 	of 	periods, 	18 	periods 	total 	output 	= 	50000000 	× 	18 	= 	900000000, 	which 	exactly
+uses 	up 	the 	900 	million 	quota 	of 	the 	ecosystem.
+B.4 	Period 	Switching 	& 	Landing 	Rules
+
+-- 37 of 41 --
+
+a. 	When 	the 	cumulative 	output 	of 	the 	back-end 	ecosystem 	reaches 	50 	million, 	it 	will
+automatically 	switch 	to 	the 	next 	cycle
+b. 	After 	the 	end 	of 	the 	18th 	cycle, 	the 	ecosystem 	LIM 	will 	permanently 	stop
+producing
+c. 	The 	amount 	will 	be 	rounded 	off 	to 	4 	decimal 	places 	and 	will 	be 	settled 	daily 	at
+08:00 	in 	New 	York.
+B.5 	Example
+Phase 	1: 	1 	USDT 	= 	1.0 	LIM, 	when 	the 	pool 	reaches 	50 	million, 	it 	will 	proceed 	to 	Phase 	2.
+Phase 	2: 	1 	USDT 	= 	0.95 	LIM, 	when 	the 	pool 	reaches 	50 	million, 	it 	will 	proceed 	to 	Phase
+3
+
+Appendix 	D: 	Frequently 	Asked 	Questions 	(FAQ)
+D.1 	Project 	Foundation
+Q: 	What 	is 	Liminal?
+Answer: 	Liminal 	is 	a 	privacy-first 	decentralized 	finance 	(DeFi) 	staking 	custody 	ecosystem
+that 	integrates 	four 	privacy 	technologies 	and 	a 	dual-token 	system, 	providing 	services 	such 	as
+anonymous 	transfer, 	stable 	wealth 	management, 	and 	node 	co-construction.
+
+-- 39 of 41 --
+
+Q: 	What 	is 	the 	difference 	between 	Liminal 	and 	Monero?
+Answer: 	Monero 	focuses 	on 	anonymous 	transfers, 	while 	Liminal 	adds 	stable 	wealth
+management, 	node 	governance, 	and 	compliance 	architecture, 	forming 	a 	complete 	paradigm 	of
+Privacy 	3.0.
+Q: 	Is 	the 	project 	in 	compliance?
+Answer: 	The 	operating 	entity, 	Liminal 	Nexus 	Foundation, 	has 	obtained 	a 	US 	MSB 	license
+and 	a 	Hong 	Kong 	TCSP 	license, 	and 	is 	advancing 	compliance 	in 	major 	jurisdictions 	around
+the 	world.
+D.2 	Tokens 	and 	Economy
+Q: 	What 	is 	the 	total 	amount 	of 	LIM? 	How 	is 	it 	distributed?
+Answer: 	The 	total 	amount 	is 	1 	billion, 	with 	no 	additional 	issuance. 	Distribution: 	90% 	for 	the
+ecosystem, 	1% 	for 	nodes, 	4% 	for 	operation, 	3% 	for 	the 	team, 	and 	2% 	for 	the 	pool. 	No 	pre-
+mining, 	no 	ICO, 	no 	private 	placement.
+Q: 	How 	is 	LIM 	produced?
+Answer: 	For 	every 	1 	USDT 	escrowed, 	it 	produces 	1 	LIM. 	The 	total 	output 	is 	divided 	into 	18
+periods, 	with 	a 	5% 	decrease 	in 	each 	period.
+Q: 	What 	deflationary 	mechanisms 	does 	LIM 	have?
+Answer: 	Upgrade 	destruction 	(VIP 	promotion), 	handling 	fee 	destruction 	(withdrawal
+deduction 	of 	5% 	LIM), 	and 	yield 	decay 	(-5% 	per 	cycle).
+D.3 	Participation 	Method
+Q: 	How 	do 	I 	start 	using 	Liminal?
+Answer: 	Visit 	the 	official 	website, 	connect 	your 	wallet 	(MetaMask, 	WalletConnect, 	etc.),
+make 	a 	private 	transfer 	in 	the 	Portal, 	or 	deposit 	USDT 	in 	the 	Pool 	to 	participate 	in 	custody.
+Q: 	What 	is 	the 	minimum 	amount 	of 	USDT 	that 	can 	be 	managed? 	What 	is 	the 	return?
+Answer: 	The 	minimum is 50 USDT. 	The 	period 	ranges 	from 	7 	days 	to 	360 	days, 	with 	a 	daily
+yield 	of 	0.6%-1.2% 	(USDT) 	plus 	equivalent 	LIM 	output.
+Q: 	What 	is 	a 	node? 	How 	do 	I 	subscribe?
+Answer: 	Nodes 	are 	the 	early 	co-builders 	of 	Liminal, 	with 	a 	total 	of 	1000 	nodes. 	On 	the 	Nodes
+page, 	you 	can 	connect 	your 	wallet 	and 	pay 	500 	USDT 	to 	subscribe 	to 	B-level 	nodes. 	After
+meeting 	the 	requirements, 	you 	will 	be 	automatically 	promoted.
+D.4 	Security 	and 	Privacy
+Q: 	Is 	my 	transaction 	really 	anonymous?
+Answer: 	Yes. 	Through 	ring 	signatures, 	stealth 	addresses, 	RingCT, 	and 	Dandelion++, 	the
+sender, 	receiver, 	amount, 	and 	IP 	address 	are 	all 	hidden.
+
+-- 40 of 41 --
+
+Q: 	Is 	the 	money 	safe 	in 	the 	privacy 	pool?
+Answer: 	The 	contract 	is 	open-source 	and 	audited, 	using 	multiple 	signatures 	and 	an 	emergency
+suspension 	mechanism. 	User 	assets 	are 	managed 	by 	smart 	contracts, 	and 	Liminal 	cannot
+unilaterally 	use 	them.
+Q: 	What 	should 	I 	do 	if 	I 	forget 	the 	redemption 	code 	or 	password?
+Answer: 	Once 	the 	redemption 	code 	and 	Catbox 	password 	are 	generated, 	they 	cannot 	be
+retrieved. 	Please 	keep 	them 	safe 	or 	use 	the 	binding 	address 	function 	to 	reduce 	the 	risk.
+D.5 	Other
+Q: 	Which 	exchanges 	are 	available 	on 	LIM?
+Answer: 	For 	the 	specific 	list, 	please 	refer 	to 	the 	official 	announcement. 	The 	first 	phase 	will
+land 	on 	2-3 	first-tier 	exchanges.
+Q: 	How 	can 	I 	get 	the 	latest 	information?
+Answer: 	Follow 	the 	official 	Telegram, 	Twitter 	(X), 	and 	Medium. 	All 	major 	announcements
+will 	be 	released 	through 	these 	channels.
+Q: 	How 	can 	I 	contact 	customer 	service 	if 	I 	encounter 	a 	problem?
+Answer: 	Liminal 	does 	not 	have 	a 	centralized 	customer 	service. 	Community 	issues 	can 	be
+consulted 	through 	the 	official 	Telegram 	group, 	but 	beware 	of 	scams.
+
+-- 41 of 41 --

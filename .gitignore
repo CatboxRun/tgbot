@@ -1,0 +1,12 @@
+node_modules/
+.tmp/
+tmp/
+data/store.json
+data/events.jsonl
+data/digest.json
+data/limPrice.json
+data/bot.pid
+data/*.log
+.env
+*.log
+knowledge/*.pdf
