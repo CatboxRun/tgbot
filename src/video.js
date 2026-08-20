@@ -1,7 +1,9 @@
 import fs from 'fs-extra';
 import path from 'path';
 import { spawn } from 'child_process';
-import ffmpegPath from 'ffmpeg-static';
+import ffmpegInstaller from '@ffmpeg-installer/ffmpeg';
+
+const ffmpegPath = ffmpegInstaller.path;
 import { config } from './config.js';
 import { ocrMany, ocrImage } from './ocr.js';
 
