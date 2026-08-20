@@ -15,19 +15,33 @@ function ensure() {
   fs.ensureDirSync(path.dirname(config.dataFile));
 }
 
+function mergeSeedAdmins(store) {
+  let changed = false;
+  for (const a of config.seedAdmins) {
+    if (!a || a === config.ownerUsername) continue;
+    if (!store.admins.map(normalizeUser).includes(a)) {
+      store.admins.push(a);
+      changed = true;
+    }
+  }
+  return changed;
+}
+
 export function loadStore() {
   ensure();
   if (!fs.existsSync(config.dataFile)) {
     const store = defaultStore();
-    for (const a of config.seedAdmins) {
-      if (a && a !== config.ownerUsername && !store.admins.includes(a)) {
-        store.admins.push(a);
-      }
-    }
+    mergeSeedAdmins(store);
     fs.writeJsonSync(config.dataFile, store, { spaces: 2 });
     return store;
   }
-  return { ...defaultStore(), ...fs.readJsonSync(config.dataFile) };
+  const store = { ...defaultStore(), ...fs.readJsonSync(config.dataFile) };
+  store.admins = Array.isArray(store.admins) ? store.admins : [];
+  // 云端重启后仍合并 .env 种子名单，避免 store.json 空名单导致无法传视频
+  if (mergeSeedAdmins(store)) {
+    saveStore(store);
+  }
+  return store;
 }
 
 function saveStore(store) {
